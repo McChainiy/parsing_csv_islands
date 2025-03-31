@@ -1,0 +1,2143 @@
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Participant № 1  | Age =  23  | Knowlegde -  mother-tongue  | Education -  bachelor  | Seriousness =  220  | Temper =  4.74  | Power =  50  | ID =  0xszmjDz0U
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Stimulus = Ivan žali što je prolio 3 litre piva. 
+Duration = 3899.3800000000047 
+id = 33 
+Island Type = fac 
+Grade = 7 
+_______________________________
+
+Stimulus = Otac je pitao za koga da kupi sladoled u trgovini. 
+Duration = 5565.479999999996 
+id = 15 
+Island Type = iq 
+Grade = 1 
+_______________________________
+
+Stimulus = Pitao sam što je Jasna jela u restoranu. 
+Duration = 4048.199999999997 
+id = 10 
+Island Type = iq 
+Grade = 7 
+_______________________________
+
+Stimulus = Učitelj je pitao što treba učenicima ponovno objasniti.. 
+Duration = 3954.920000000013 
+id = 4 
+Island Type = iq 
+Grade = 7 
+_______________________________
+
+Stimulus = Dobrom poštaru poklonili smo novi bicikl. 
+Duration = 2197.5599999999977 
+id = 48 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Karina živi u Osijeku. 
+Duration = 3682.3800000000047 
+id = 49 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Anton je u pismu napisao besmislicu. 
+Duration = 1838.0599999999977 
+id = 45 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Ivan je požalio što je šefa pozvao na zabavu. 
+Duration = 2204.9400000000023 
+id = 31 
+Island Type = fac 
+Grade = 7 
+_______________________________
+
+Stimulus = Slobodan se vratio kući. 
+Duration = 4284.1600000000035 
+id = 44 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Na ljeto Slavko ide u USA na work and travel program. 
+Duration = 4101.359999999986 
+id = 8 
+Island Type = iq 
+Grade = 7 
+_______________________________
+
+Stimulus = Martin sutra ne dolazi na posao. 
+Duration = 2215.8800000000047 
+id = 21 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Pitao sam kako se ponašati u takvim uvjetima. 
+Duration = 6415.4800000000105 
+id = 18 
+Island Type = iq 
+Grade = 1 
+_______________________________
+
+Stimulus = Martin sutra ne dolazi na posao. 
+Duration = 3255.640000000014 
+id = 27 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Želim pojesti jabuku. 
+Duration = 3584.640000000014 
+id = 51 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Moja sestra platila je taksi od zračne luke. 
+Duration = 3531.720000000001 
+id = 46 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Pitao sam tko je jeo pleskavicu u restoranu. 
+Duration = 3177.2000000000116 
+id = 11 
+Island Type = iq 
+Grade = 1 
+_______________________________
+
+Stimulus = U posljednje vrijeme moja mala sestra se ne ponaša kao prije. 
+Duration = 2605.5599999999977 
+id = 23 
+Island Type = neg 
+Grade = 1 
+_______________________________
+
+Stimulus = Zanima ih tko će kupiti posuđe za vjenčani dar. 
+Duration = 6143.119999999995 
+id = 1 
+Island Type = iq 
+Grade = 4 
+_______________________________
+
+Stimulus = Vraćajući se iz apoteke primijetila sam malog mačića na krovu auta. 
+Duration = 2788.859999999986 
+id = 52 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Ivan je požalio što se ponašao drsko na zabavi. 
+Duration = 3771.459999999992 
+id = 32 
+Island Type = fac 
+Grade = 1 
+_______________________________
+
+Stimulus = Tvrtko neće moći provesti vikend s obitelji na Bahamima. 
+Duration = 2502.679999999993 
+id = 22 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Klara misli da je Petar kupio sat na tržnici. 
+Duration = 3629.0599999999977 
+id = 39 
+Island Type = fac 
+Grade = 7 
+_______________________________
+
+Stimulus = Pitali smo tko radi u tom velikom uredu. 
+Duration = 3881.0999999999767 
+id = 13 
+Island Type = iq 
+Grade = 1 
+_______________________________
+
+Stimulus = Perići znaju da je Petar kupio sat na tržnici. 
+Duration = 2711.4799999999814 
+id = 37 
+Island Type = fac 
+Grade = 7 
+_______________________________
+
+Stimulus = Tvrtko neće moći provesti vikend s obitelji na Bahamima. 
+Duration = 3739.5999999999767 
+id = 28 
+Island Type = neg 
+Grade = 4 
+_______________________________
+
+Stimulus = Danijela ne voli gledati nogomet. 
+Duration = 2503.1599999999744 
+id = 19 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Na ljeto Slavko ide u USA na work and travel program. 
+Duration = 2713.820000000007 
+id = 9 
+Island Type = iq 
+Grade = 7 
+_______________________________
+
+Stimulus = Pitao sam Antona gdje je ostavio moje slušalice. 
+Duration = 3427.5800000000163 
+id = 16 
+Island Type = iq 
+Grade = 4 
+_______________________________
+
+Stimulus = Moj mlađi brat i sestra su bili u dvorištu. 
+Duration = 4293.580000000016 
+id = 55 
+Island Type = nf 
+Grade = 3 
+_______________________________
+
+Stimulus = Tvoja prijateljica pitala je gdje radi moj brat. 
+Duration = 5105.479999999981 
+id = 2 
+Island Type = iq 
+Grade = 5 
+_______________________________
+
+Stimulus = Klara misli da se Petar tog dana vrlo brzo vozio kući. 
+Duration = 4615.280000000028 
+id = 40 
+Island Type = fac 
+Grade = 7 
+_______________________________
+
+Stimulus = Zanima ih što će Matej kupiti za vjenčani dar. 
+Duration = 7994.960000000021 
+id = 0 
+Island Type = iq 
+Grade = 7 
+_______________________________
+
+Stimulus = U posljednje vrijeme moja mala sestra ne ponaša se kao prije. 
+Duration = 7932.440000000002 
+id = 29 
+Island Type = neg 
+Grade = 3 
+_______________________________
+
+Stimulus = Pitali smo gdje radi Grga. 
+Duration = 6777.320000000007 
+id = 12 
+Island Type = iq 
+Grade = 7 
+_______________________________
+
+Stimulus = Kurir je razjasnio što mora dostaviti sutra. 
+Duration = 4421.520000000019 
+id = 7 
+Island Type = iq 
+Grade = 6 
+_______________________________
+
+Stimulus = Moja obitelj nije povela mog brata na odmor u Bugarsku. 
+Duration = 4087.280000000028 
+id = 20 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Kriminalac izlazi iz trgovine. 
+Duration = 2408.4000000000233 
+id = 43 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Perići znaju da se Petar tog dana vrlo brzo vozio kući. 
+Duration = 2998.7399999999907 
+id = 38 
+Island Type = fac 
+Grade = 7 
+_______________________________
+
+Stimulus = Znam da je Marina izgubila ključeve. 
+Duration = 3772.820000000007 
+id = 41 
+Island Type = fac 
+Grade = 1 
+_______________________________
+
+Stimulus = Stepan nije stignuo naučiti 3 pjesme za sat književnosti. 
+Duration = 3225.5200000000186 
+id = 30 
+Island Type = neg 
+Grade = 1 
+_______________________________
+
+Stimulus = Moj djed je sanjao da postane pjevač a postao je biznismen. 
+Duration = 3446.320000000007 
+id = 54 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Učitelj je pitao kome treba ponovno objasniti novo pravilo.. 
+Duration = 3960.8400000000256 
+id = 5 
+Island Type = iq 
+Grade = 4 
+_______________________________
+
+Stimulus = Stepan nije stignuo naučiti 3 pjesme za sat književnosti. 
+Duration = 1042.280000000028 
+id = 24 
+Island Type = neg 
+Grade = 1 
+_______________________________
+
+Stimulus = Kurir je razjasnio kada mora dostaviti paket. 
+Duration = 3531.460000000021 
+id = 6 
+Island Type = iq 
+Grade = 4 
+_______________________________
+
+Stimulus = Mislim da je Marina izgubila laptop. 
+Duration = 2416.179999999993 
+id = 42 
+Island Type = fac 
+Grade = 7 
+_______________________________
+
+Stimulus = Tvoja prijateljica pitala je tko radi u školi. 
+Duration = 2940.1199999999953 
+id = 3 
+Island Type = iq 
+Grade = 4 
+_______________________________
+
+Stimulus = Moj bogati ujak drži svoj novac u švicarskoj banci. 
+Duration = 3053.4799999999814 
+id = 47 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Našao sam nekakav Necronomicon na tavanu. 
+Duration = 4774.960000000021 
+id = 53 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Danijela ne voli gledati nogomet. 
+Duration = 3499.3400000000256 
+id = 25 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Moja obitelj nije povela mog brata na odmor u Bugarsku. 
+Duration = 3735.280000000028 
+id = 26 
+Island Type = neg 
+Grade = 1 
+_______________________________
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Participant № 2  | Age =  25  | Knowlegde -  mother-tongue  | Education -  master  | Seriousness =  247  | Temper =  3.824561403508772  | Power =  57  | ID =  6w7AwWxGao
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Stimulus = Našao sam nekakav Necronomicon na tavanu. 
+Duration = 5057.800000011921 
+id = 53 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Ivo je rekao da se smijao vrlo glasno u kinu. 
+Duration = 8284.399999999994 
+id = 35 
+Island Type = fac 
+Grade = 3 
+_______________________________
+
+Stimulus = Pitali smo gdje radi Grga. 
+Duration = 7875.600000017876 
+id = 12 
+Island Type = iq 
+Grade = 2 
+_______________________________
+
+Stimulus = Moja obitelj nije povela mog brata na odmor u Bugarsku. 
+Duration = 7784.299999994051 
+id = 26 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Danijela ne voli gledati nogomet. 
+Duration = 2058.5 
+id = 19 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Ivo je rekao da je svog prijatelja nazvao u petak. 
+Duration = 6705.100000017876 
+id = 34 
+Island Type = fac 
+Grade = 6 
+_______________________________
+
+Stimulus = Moja sestra platila je taksi od zračne luke. 
+Duration = 7093.800000017887 
+id = 46 
+Island Type = gf 
+Grade = 6 
+_______________________________
+
+Stimulus = Zanima ih tko će kupiti posuđe za vjenčani dar. 
+Duration = 5535.0999999940395 
+id = 1 
+Island Type = iq 
+Grade = 2 
+_______________________________
+
+Stimulus = Ivan je požalio što je šefa pozvao na zabavu. 
+Duration = 5871.899999994028 
+id = 31 
+Island Type = fac 
+Grade = 2 
+_______________________________
+
+Stimulus = Stepan nije stignuo naučiti 3 pjesme za sat književnosti. 
+Duration = 7284.499999994034 
+id = 24 
+Island Type = neg 
+Grade = 3 
+_______________________________
+
+Stimulus = Ivan žali što je prolio 3 litre piva. 
+Duration = 6658.800000017887 
+id = 33 
+Island Type = fac 
+Grade = 4 
+_______________________________
+
+Stimulus = Pitao sam vlasnika kamioneta koliko benzina troši njegov auto. 
+Duration = 5953.400000011927 
+id = 14 
+Island Type = iq 
+Grade = 7 
+_______________________________
+
+Stimulus = Tvrtko neće moći provesti vikend s obitelji na Bahamima. 
+Duration = 3697.2000000178814 
+id = 22 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Pitao sam što je Jasna jela u restoranu. 
+Duration = 4528.400000011927 
+id = 10 
+Island Type = iq 
+Grade = 2 
+_______________________________
+
+Stimulus = Kurir je razjasnio što mora dostaviti sutra. 
+Duration = 4188.800000017887 
+id = 7 
+Island Type = iq 
+Grade = 1 
+_______________________________
+
+Stimulus = Na ljeto Slavko ide u USA na work and travel program. 
+Duration = 7593.900000011898 
+id = 9 
+Island Type = iq 
+Grade = 6 
+_______________________________
+
+Stimulus = Vraćajući se iz apoteke primijetila sam malog mačića na krovu auta. 
+Duration = 3609.5 
+id = 52 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Ivo je rekao da je vidio dva slona na safariju. 
+Duration = 8736.5 
+id = 36 
+Island Type = fac 
+Grade = 2 
+_______________________________
+
+Stimulus = Perići znaju da je Petar kupio sat na tržnici. 
+Duration = 5715.400000000023 
+id = 37 
+Island Type = fac 
+Grade = 1 
+_______________________________
+
+Stimulus = Slobodan se vratio kući. 
+Duration = 3809.0999999940395 
+id = 44 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Više volim vino nego pivo. 
+Duration = 2914.300000017858 
+id = 56 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Stepan nije stignuo naučiti 3 pjesme za sat književnosti. 
+Duration = 6426.500000011933 
+id = 30 
+Island Type = neg 
+Grade = 1 
+_______________________________
+
+Stimulus = Dobrom poštaru poklonili smo novi bicikl. 
+Duration = 3051.9000000000233 
+id = 48 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Moj mlađi brat i sestra su bili u dvorištu. 
+Duration = 3698.300000011921 
+id = 55 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Pitao sam tko je jeo pleskavicu u restoranu. 
+Duration = 3908.8000000059837 
+id = 11 
+Island Type = iq 
+Grade = 1 
+_______________________________
+
+Stimulus = Klara misli da se Petar tog dana vrlo brzo vozio kući. 
+Duration = 7612.600000005972 
+id = 40 
+Island Type = fac 
+Grade = 6 
+_______________________________
+
+Stimulus = Pitao sam Antona što je ostavio u mom stanu. 
+Duration = 8278.09999999404 
+id = 17 
+Island Type = iq 
+Grade = 5 
+_______________________________
+
+Stimulus = Klara misli da je Petar kupio sat na tržnici. 
+Duration = 6335.399999994028 
+id = 39 
+Island Type = fac 
+Grade = 6 
+_______________________________
+
+Stimulus = Kurir je razjasnio kada mora dostaviti paket. 
+Duration = 3738.5000000119326 
+id = 6 
+Island Type = iq 
+Grade = 1 
+_______________________________
+
+Stimulus = Mislim da je Marina izgubila laptop. 
+Duration = 7419.699999994016 
+id = 42 
+Island Type = fac 
+Grade = 5 
+_______________________________
+
+Stimulus = Želim pojesti jabuku. 
+Duration = 2279.999999994063 
+id = 51 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = U posljednje vrijeme moja mala sestra se ne ponaša kao prije. 
+Duration = 4937.700000000012 
+id = 23 
+Island Type = neg 
+Grade = 2 
+_______________________________
+
+Stimulus = Moja obitelj nije povela mog brata na odmor u Bugarsku. 
+Duration = 3219.400000017893 
+id = 20 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Tvoja prijateljica pitala je gdje radi moj brat. 
+Duration = 3144.9000000000233 
+id = 2 
+Island Type = iq 
+Grade = 1 
+_______________________________
+
+Stimulus = Na ljeto Slavko ide u USA na work and travel program. 
+Duration = 6661.700000005949 
+id = 8 
+Island Type = iq 
+Grade = 4 
+_______________________________
+
+Stimulus = Otac je pitao za koga da kupi sladoled u trgovini. 
+Duration = 4515.800000017858 
+id = 15 
+Island Type = iq 
+Grade = 3 
+_______________________________
+
+Stimulus = Pitao sam kako se ponašati u takvim uvjetima. 
+Duration = 4222.100000011909 
+id = 18 
+Island Type = iq 
+Grade = 2 
+_______________________________
+
+Stimulus = Znam da je Marina izgubila ključeve. 
+Duration = 4613.800000011921 
+id = 41 
+Island Type = fac 
+Grade = 6 
+_______________________________
+
+Stimulus = Karina živi u Osijeku. 
+Duration = 3949.600000005972 
+id = 49 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Zanima ih što će Matej kupiti za vjenčani dar. 
+Duration = 2404.0 
+id = 0 
+Island Type = iq 
+Grade = 2 
+_______________________________
+
+Stimulus = Učitelj je pitao kome treba ponovno objasniti novo pravilo.. 
+Duration = 3896.4000000059605 
+id = 5 
+Island Type = iq 
+Grade = 2 
+_______________________________
+
+Stimulus = Učitelj je pitao što treba učenicima ponovno objasniti.. 
+Duration = 4516.600000005972 
+id = 4 
+Island Type = iq 
+Grade = 2 
+_______________________________
+
+Stimulus = Moj bogati ujak drži svoj novac u švicarskoj banci. 
+Duration = 4914.5999999940395 
+id = 47 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Tvoja prijateljica pitala je tko radi u školi. 
+Duration = 3069.000000005937 
+id = 3 
+Island Type = iq 
+Grade = 1 
+_______________________________
+
+Stimulus = Martin sutra ne dolazi na posao. 
+Duration = 4749.900000017893 
+id = 27 
+Island Type = neg 
+Grade = 5 
+_______________________________
+
+Stimulus = Pronaći pravo stajalište bilo je vrlo lako. 
+Duration = 2525.399999994028 
+id = 50 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Perići znaju da se Petar tog dana vrlo brzo vozio kući. 
+Duration = 7020.699999994016 
+id = 38 
+Island Type = fac 
+Grade = 3 
+_______________________________
+
+Stimulus = Danijela ne voli gledati nogomet. 
+Duration = 4281.200000017881 
+id = 25 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Tvrtko neće moći provesti vikend s obitelji na Bahamima. 
+Duration = 3843.200000006007 
+id = 28 
+Island Type = neg 
+Grade = 6 
+_______________________________
+
+Stimulus = Anton je u pismu napisao besmislicu. 
+Duration = 1945.500000017928 
+id = 45 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Pitao sam Antona gdje je ostavio moje slušalice. 
+Duration = 3604.800000011921 
+id = 16 
+Island Type = iq 
+Grade = 3 
+_______________________________
+
+Stimulus = U posljednje vrijeme moja mala sestra ne ponaša se kao prije. 
+Duration = 5731.299999993993 
+id = 29 
+Island Type = neg 
+Grade = 4 
+_______________________________
+
+Stimulus = Martin sutra ne dolazi na posao. 
+Duration = 2365.299999993993 
+id = 21 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Ivan je požalio što se ponašao drsko na zabavi. 
+Duration = 4418.300000005984 
+id = 32 
+Island Type = fac 
+Grade = 1 
+_______________________________
+
+Stimulus = Kriminalac izlazi iz trgovine. 
+Duration = 2255.499999994063 
+id = 43 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Moj djed je sanjao da postane pjevač a postao je biznismen. 
+Duration = 4461.100000017905 
+id = 54 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Pitali smo tko radi u tom velikom uredu. 
+Duration = 5132.641999994055 
+id = 13 
+Island Type = iq 
+Grade = 2 
+_______________________________
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Participant № 3  | Age =  26  | Knowlegde -  mother-tongue  | Education -  master  | Seriousness =  202  | Temper =  3.175438596491228  | Power =  57  | ID =  a8Z-qgkUcx
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Stimulus = U posljednje vrijeme moja mala sestra se ne ponaša kao prije. 
+Duration = 5769.3999999284715 
+id = 23 
+Island Type = neg 
+Grade = 1 
+_______________________________
+
+Stimulus = Ivan je požalio što se ponašao drsko na zabavi. 
+Duration = 11080.799999999988 
+id = 32 
+Island Type = fac 
+Grade = -1 
+_______________________________
+
+Stimulus = Zanima ih što će Matej kupiti za vjenčani dar. 
+Duration = 1772.5719999999856 
+id = 0 
+Island Type = iq 
+Grade = 1 
+_______________________________
+
+Stimulus = Učitelj je pitao kome treba ponovno objasniti novo pravilo.. 
+Duration = 2698.2000000000116 
+id = 5 
+Island Type = iq 
+Grade = 1 
+_______________________________
+
+Stimulus = Pitao sam kako se ponašati u takvim uvjetima. 
+Duration = 3192.7000000000116 
+id = 18 
+Island Type = iq 
+Grade = 1 
+_______________________________
+
+Stimulus = Znam da je Marina izgubila ključeve. 
+Duration = 4582.737999928475 
+id = 41 
+Island Type = fac 
+Grade = 1 
+_______________________________
+
+Stimulus = Tvoja prijateljica pitala je gdje radi moj brat. 
+Duration = 3107.899999976158 
+id = 2 
+Island Type = iq 
+Grade = 1 
+_______________________________
+
+Stimulus = Otac je pitao za koga da kupi sladoled u trgovini. 
+Duration = 5904.170000000013 
+id = 15 
+Island Type = iq 
+Grade = 1 
+_______________________________
+
+Stimulus = Učitelj je pitao što treba učenicima ponovno objasniti.. 
+Duration = 2473.6999999761465 
+id = 4 
+Island Type = iq 
+Grade = 1 
+_______________________________
+
+Stimulus = Pitao sam Antona što je ostavio u mom stanu. 
+Duration = 3238.9159999761614 
+id = 17 
+Island Type = iq 
+Grade = 1 
+_______________________________
+
+Stimulus = Tvrtko neće moći provesti vikend s obitelji na Bahamima. 
+Duration = 2858.1779999523133 
+id = 22 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Na ljeto Slavko ide u USA na work and travel program. 
+Duration = 2766.7700000238547 
+id = 8 
+Island Type = iq 
+Grade = 7 
+_______________________________
+
+Stimulus = Moja sestra platila je taksi od zračne luke. 
+Duration = 5311.40000002383 
+id = 46 
+Island Type = gf 
+Grade = 1 
+_______________________________
+
+Stimulus = Moja obitelj nije povela mog brata na odmor u Bugarsku. 
+Duration = 3751.1719999523193 
+id = 20 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Moj mlađi brat i sestra su bili u dvorištu. 
+Duration = 3616.8119999284972 
+id = 55 
+Island Type = nf 
+Grade = 7 
+_______________________________
+
+Stimulus = Karina živi u Osijeku. 
+Duration = 4007.7999999761814 
+id = 49 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Slobodan se vratio kući. 
+Duration = 3407.2999999761814 
+id = 44 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Klara misli da se Petar tog dana vrlo brzo vozio kući. 
+Duration = 4818.799999928451 
+id = 40 
+Island Type = fac 
+Grade = 1 
+_______________________________
+
+Stimulus = Zanima ih tko će kupiti posuđe za vjenčani dar. 
+Duration = 3573.499999976135 
+id = 1 
+Island Type = iq 
+Grade = 1 
+_______________________________
+
+Stimulus = Našao sam nekakav Necronomicon na tavanu. 
+Duration = 3114.470000023837 
+id = 53 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Tvrtko neće moći provesti vikend s obitelji na Bahamima. 
+Duration = 4542.600000023842 
+id = 28 
+Island Type = neg 
+Grade = 1 
+_______________________________
+
+Stimulus = Ivo je rekao da je vidio dva slona na safariju. 
+Duration = 4108.599999952305 
+id = 36 
+Island Type = fac 
+Grade = 1 
+_______________________________
+
+Stimulus = Više volim vino nego pivo. 
+Duration = 3580.500000023865 
+id = 56 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Ivo je rekao da je svog prijatelja nazvao u petak. 
+Duration = 4243.299999976181 
+id = 34 
+Island Type = fac 
+Grade = 1 
+_______________________________
+
+Stimulus = Kurir je razjasnio kada mora dostaviti paket. 
+Duration = 2866.499999928463 
+id = 6 
+Island Type = iq 
+Grade = 1 
+_______________________________
+
+Stimulus = Mislim da je Marina izgubila laptop. 
+Duration = 4778.399999952293 
+id = 42 
+Island Type = fac 
+Grade = 1 
+_______________________________
+
+Stimulus = Moj bogati ujak drži svoj novac u švicarskoj banci. 
+Duration = 2114.0999999284977 
+id = 47 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Pitao sam tko je jeo pleskavicu u restoranu. 
+Duration = 8147.899999952293 
+id = 11 
+Island Type = iq 
+Grade = 1 
+_______________________________
+
+Stimulus = Ivan žali što je prolio 3 litre piva. 
+Duration = 4693.673999976134 
+id = 33 
+Island Type = fac 
+Grade = 1 
+_______________________________
+
+Stimulus = Martin sutra ne dolazi na posao. 
+Duration = 4550.40000002383 
+id = 27 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Pitao sam Antona gdje je ostavio moje slušalice. 
+Duration = 4676.216000000015 
+id = 16 
+Island Type = iq 
+Grade = 1 
+_______________________________
+
+Stimulus = Perići znaju da se Petar tog dana vrlo brzo vozio kući. 
+Duration = 3742.000000023865 
+id = 38 
+Island Type = fac 
+Grade = 1 
+_______________________________
+
+Stimulus = Na ljeto Slavko ide u USA na work and travel program. 
+Duration = 2212.7000000238186 
+id = 9 
+Island Type = iq 
+Grade = 7 
+_______________________________
+
+Stimulus = Danijela ne voli gledati nogomet. 
+Duration = 2207.337999999989 
+id = 25 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Želim pojesti jabuku. 
+Duration = 2323.5999999284977 
+id = 51 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Pronaći pravo stajalište bilo je vrlo lako. 
+Duration = 3091.6999999761465 
+id = 50 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Klara misli da je Petar kupio sat na tržnici. 
+Duration = 5277.40000002383 
+id = 39 
+Island Type = fac 
+Grade = 1 
+_______________________________
+
+Stimulus = Anton je u pismu napisao besmislicu. 
+Duration = 2782.0 
+id = 45 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Stepan nije stignuo naučiti 3 pjesme za sat književnosti. 
+Duration = 3742.0999999999767 
+id = 24 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Moja obitelj nije povela mog brata na odmor u Bugarsku. 
+Duration = 4109.400000000023 
+id = 26 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Perići znaju da je Petar kupio sat na tržnici. 
+Duration = 3935.2000000000116 
+id = 37 
+Island Type = fac 
+Grade = 1 
+_______________________________
+
+Stimulus = Pitao sam vlasnika kamioneta koliko benzina troši njegov auto. 
+Duration = 4051.2000000000116 
+id = 14 
+Island Type = iq 
+Grade = 7 
+_______________________________
+
+Stimulus = Kriminalac izlazi iz trgovine. 
+Duration = 2404.999999976135 
+id = 43 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = U posljednje vrijeme moja mala sestra ne ponaša se kao prije. 
+Duration = 5871.0 
+id = 29 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Danijela ne voli gledati nogomet. 
+Duration = 1697.6000000238419 
+id = 19 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Kurir je razjasnio što mora dostaviti sutra. 
+Duration = 2882.7999999523163 
+id = 7 
+Island Type = iq 
+Grade = 1 
+_______________________________
+
+Stimulus = Dobrom poštaru poklonili smo novi bicikl. 
+Duration = 1613.6000000238419 
+id = 48 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Stepan nije stignuo naučiti 3 pjesme za sat književnosti. 
+Duration = 3275.2700000238838 
+id = 30 
+Island Type = neg 
+Grade = 1 
+_______________________________
+
+Stimulus = Ivo je rekao da se smijao vrlo glasno u kinu. 
+Duration = 2673.299999928451 
+id = 35 
+Island Type = fac 
+Grade = 7 
+_______________________________
+
+Stimulus = Martin sutra ne dolazi na posao. 
+Duration = 2698.2700000238838 
+id = 21 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Moj djed je sanjao da postane pjevač a postao je biznismen. 
+Duration = 3868.1359999523265 
+id = 54 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Pitao sam što je Jasna jela u restoranu. 
+Duration = 4875.899999952293 
+id = 10 
+Island Type = iq 
+Grade = 1 
+_______________________________
+
+Stimulus = Pitali smo tko radi u tom velikom uredu. 
+Duration = 4234.300000000047 
+id = 13 
+Island Type = iq 
+Grade = 1 
+_______________________________
+
+Stimulus = Tvoja prijateljica pitala je tko radi u školi. 
+Duration = 2481.999999928521 
+id = 3 
+Island Type = iq 
+Grade = 1 
+_______________________________
+
+Stimulus = Pitali smo gdje radi Grga. 
+Duration = 3767.999999976135 
+id = 12 
+Island Type = iq 
+Grade = 1 
+_______________________________
+
+Stimulus = Ivan je požalio što je šefa pozvao na zabavu. 
+Duration = 8196.5 
+id = 31 
+Island Type = fac 
+Grade = 1 
+_______________________________
+
+Stimulus = Vraćajući se iz apoteke primijetila sam malog mačića na krovu auta. 
+Duration = 3901.399999928428 
+id = 52 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Participant № 4  | Age =  44  | Knowlegde -  mother-tongue  | Education -  master  | Seriousness =  212  | Temper =  4.245614035087719  | Power =  57  | ID =  cR4aC90T73
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Stimulus = Perići znaju da je Petar kupio sat na tržnici. 
+Duration = 6661.599999988073 
+id = 37 
+Island Type = fac 
+Grade = 5 
+_______________________________
+
+Stimulus = Kurir je razjasnio kada mora dostaviti paket. 
+Duration = 5615.500000005966 
+id = 6 
+Island Type = iq 
+Grade = 1 
+_______________________________
+
+Stimulus = Danijela ne voli gledati nogomet. 
+Duration = 5138.200000005963 
+id = 25 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Stepan nije stignuo naučiti 3 pjesme za sat književnosti. 
+Duration = 5245.100000005972 
+id = 24 
+Island Type = neg 
+Grade = 4 
+_______________________________
+
+Stimulus = Moj bogati ujak drži svoj novac u švicarskoj banci. 
+Duration = 2804.0000000059663 
+id = 47 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Mislim da je Marina izgubila laptop. 
+Duration = 7141.999999988067 
+id = 42 
+Island Type = fac 
+Grade = 6 
+_______________________________
+
+Stimulus = Ivan žali što je prolio 3 litre piva. 
+Duration = 6044.399999999994 
+id = 33 
+Island Type = fac 
+Grade = 6 
+_______________________________
+
+Stimulus = Klara misli da se Petar tog dana vrlo brzo vozio kući. 
+Duration = 8302.600000000006 
+id = 40 
+Island Type = fac 
+Grade = 6 
+_______________________________
+
+Stimulus = Tvrtko neće moći provesti vikend s obitelji na Bahamima. 
+Duration = 6750.899999982124 
+id = 28 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Otac je pitao za koga da kupi sladoled u trgovini. 
+Duration = 6744.099999988073 
+id = 15 
+Island Type = iq 
+Grade = 1 
+_______________________________
+
+Stimulus = Anton je u pismu napisao besmislicu. 
+Duration = 4898.499999994034 
+id = 45 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Ivo je rekao da je vidio dva slona na safariju. 
+Duration = 6201.5 
+id = 36 
+Island Type = fac 
+Grade = 3 
+_______________________________
+
+Stimulus = U posljednje vrijeme moja mala sestra ne ponaša se kao prije. 
+Duration = 10997.299999999988 
+id = 29 
+Island Type = neg 
+Grade = -1 
+_______________________________
+
+Stimulus = Znam da je Marina izgubila ključeve. 
+Duration = 5574.099999999977 
+id = 41 
+Island Type = fac 
+Grade = 7 
+_______________________________
+
+Stimulus = Želim pojesti jabuku. 
+Duration = 4095.899999994028 
+id = 51 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Pitao sam Antona gdje je ostavio moje slušalice. 
+Duration = 4902.900000000023 
+id = 16 
+Island Type = iq 
+Grade = 4 
+_______________________________
+
+Stimulus = Vraćajući se iz apoteke primijetila sam malog mačića na krovu auta. 
+Duration = 4823.699999994016 
+id = 52 
+Island Type = nf 
+Grade = 2 
+_______________________________
+
+Stimulus = Dobrom poštaru poklonili smo novi bicikl. 
+Duration = 2817.4000000059605 
+id = 48 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Moj djed je sanjao da postane pjevač a postao je biznismen. 
+Duration = 4293.800000005984 
+id = 54 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Tvoja prijateljica pitala je tko radi u školi. 
+Duration = 7864.399999988091 
+id = 3 
+Island Type = iq 
+Grade = 2 
+_______________________________
+
+Stimulus = Pitao sam što je Jasna jela u restoranu. 
+Duration = 4514.200000005949 
+id = 10 
+Island Type = iq 
+Grade = 1 
+_______________________________
+
+Stimulus = Pitao sam vlasnika kamioneta koliko benzina troši njegov auto. 
+Duration = 5254.899999988091 
+id = 14 
+Island Type = iq 
+Grade = 6 
+_______________________________
+
+Stimulus = Perići znaju da se Petar tog dana vrlo brzo vozio kući. 
+Duration = 5922.700000000012 
+id = 38 
+Island Type = fac 
+Grade = 2 
+_______________________________
+
+Stimulus = Na ljeto Slavko ide u USA na work and travel program. 
+Duration = 3754.7999999821186 
+id = 9 
+Island Type = iq 
+Grade = 7 
+_______________________________
+
+Stimulus = Ivan je požalio što se ponašao drsko na zabavi. 
+Duration = 4056.5999999881024 
+id = 32 
+Island Type = fac 
+Grade = 1 
+_______________________________
+
+Stimulus = Stepan nije stignuo naučiti 3 pjesme za sat književnosti. 
+Duration = 3759.500000005937 
+id = 30 
+Island Type = neg 
+Grade = 1 
+_______________________________
+
+Stimulus = Slobodan se vratio kući. 
+Duration = 4796.4000000059605 
+id = 44 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Klara misli da je Petar kupio sat na tržnici. 
+Duration = 4781.000000005937 
+id = 39 
+Island Type = fac 
+Grade = 3 
+_______________________________
+
+Stimulus = Ivan je požalio što je šefa pozvao na zabavu. 
+Duration = 6098.4000000059605 
+id = 31 
+Island Type = fac 
+Grade = 5 
+_______________________________
+
+Stimulus = Moj mlađi brat i sestra su bili u dvorištu. 
+Duration = 4077.899999994028 
+id = 55 
+Island Type = nf 
+Grade = 6 
+_______________________________
+
+Stimulus = Pitali smo gdje radi Grga. 
+Duration = 5425.900000000023 
+id = 12 
+Island Type = iq 
+Grade = 1 
+_______________________________
+
+Stimulus = Martin sutra ne dolazi na posao. 
+Duration = 4728.199999988079 
+id = 27 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Zanima ih tko će kupiti posuđe za vjenčani dar. 
+Duration = 3746.200000005949 
+id = 1 
+Island Type = iq 
+Grade = 1 
+_______________________________
+
+Stimulus = Učitelj je pitao što treba učenicima ponovno objasniti.. 
+Duration = 7050.200000000012 
+id = 4 
+Island Type = iq 
+Grade = 3 
+_______________________________
+
+Stimulus = Zanima ih što će Matej kupiti za vjenčani dar. 
+Duration = 4822.799999994051 
+id = 0 
+Island Type = iq 
+Grade = 1 
+_______________________________
+
+Stimulus = Više volim vino nego pivo. 
+Duration = 3400.4999999821302 
+id = 56 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Na ljeto Slavko ide u USA na work and travel program. 
+Duration = 4130.5999999940395 
+id = 8 
+Island Type = iq 
+Grade = 7 
+_______________________________
+
+Stimulus = Našao sam nekakav Necronomicon na tavanu. 
+Duration = 4613.5999999940395 
+id = 53 
+Island Type = nf 
+Grade = 2 
+_______________________________
+
+Stimulus = Pitao sam kako se ponašati u takvim uvjetima. 
+Duration = 8392.899999982095 
+id = 18 
+Island Type = iq 
+Grade = 4 
+_______________________________
+
+Stimulus = Ivo je rekao da se smijao vrlo glasno u kinu. 
+Duration = 4954.692000005976 
+id = 35 
+Island Type = fac 
+Grade = 6 
+_______________________________
+
+Stimulus = Pronaći pravo stajalište bilo je vrlo lako. 
+Duration = 3443.5999999999767 
+id = 50 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Martin sutra ne dolazi na posao. 
+Duration = 3288.000000005937 
+id = 21 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Ivo je rekao da je svog prijatelja nazvao u petak. 
+Duration = 4669.899999994086 
+id = 34 
+Island Type = fac 
+Grade = 7 
+_______________________________
+
+Stimulus = Karina živi u Osijeku. 
+Duration = 5237.0 
+id = 49 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = U posljednje vrijeme moja mala sestra se ne ponaša kao prije. 
+Duration = 7258.5999999940395 
+id = 23 
+Island Type = neg 
+Grade = 1 
+_______________________________
+
+Stimulus = Moja obitelj nije povela mog brata na odmor u Bugarsku. 
+Duration = 3927.8999999820953 
+id = 20 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Danijela ne voli gledati nogomet. 
+Duration = 2537.200000006007 
+id = 19 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Kriminalac izlazi iz trgovine. 
+Duration = 2659.200000006007 
+id = 43 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Pitali smo tko radi u tom velikom uredu. 
+Duration = 7951.199999988079 
+id = 13 
+Island Type = iq 
+Grade = 1 
+_______________________________
+
+Stimulus = Učitelj je pitao kome treba ponovno objasniti novo pravilo.. 
+Duration = 5549.900000000023 
+id = 5 
+Island Type = iq 
+Grade = 5 
+_______________________________
+
+Stimulus = Tvoja prijateljica pitala je gdje radi moj brat. 
+Duration = 6809.999999988126 
+id = 2 
+Island Type = iq 
+Grade = 4 
+_______________________________
+
+Stimulus = Pitao sam tko je jeo pleskavicu u restoranu. 
+Duration = 5630.400000000023 
+id = 11 
+Island Type = iq 
+Grade = 2 
+_______________________________
+
+Stimulus = Pitao sam Antona što je ostavio u mom stanu. 
+Duration = 4297.0 
+id = 17 
+Island Type = iq 
+Grade = 3 
+_______________________________
+
+Stimulus = Moja obitelj nije povela mog brata na odmor u Bugarsku. 
+Duration = 5195.900000000023 
+id = 26 
+Island Type = neg 
+Grade = 6 
+_______________________________
+
+Stimulus = Tvrtko neće moći provesti vikend s obitelji na Bahamima. 
+Duration = 3947.000000005937 
+id = 22 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Kurir je razjasnio što mora dostaviti sutra. 
+Duration = 6505.099999988102 
+id = 7 
+Island Type = iq 
+Grade = 5 
+_______________________________
+
+Stimulus = Moja sestra platila je taksi od zračne luke. 
+Duration = 8030.699999988079 
+id = 46 
+Island Type = gf 
+Grade = 4 
+_______________________________
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Participant № 5  | Age =  36  | Knowlegde -  mother-tongue  | Education -  master  | Seriousness =  227  | Temper =  5.2631578947368425  | Power =  57  | ID =  emVzklJhmZ
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Stimulus = Učitelj je pitao što treba učenicima ponovno objasniti.. 
+Duration = 9097.600000047678 
+id = 4 
+Island Type = iq 
+Grade = 5 
+_______________________________
+
+Stimulus = Anton je u pismu napisao besmislicu. 
+Duration = 4449.900000047695 
+id = 45 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Ivo je rekao da je vidio dva slona na safariju. 
+Duration = 10992.299999999988 
+id = 36 
+Island Type = fac 
+Grade = -1 
+_______________________________
+
+Stimulus = Mislim da je Marina izgubila laptop. 
+Duration = 6269.999999952328 
+id = 42 
+Island Type = fac 
+Grade = 6 
+_______________________________
+
+Stimulus = Pitao sam što je Jasna jela u restoranu. 
+Duration = 5416.899999952322 
+id = 10 
+Island Type = iq 
+Grade = 5 
+_______________________________
+
+Stimulus = Tvoja prijateljica pitala je tko radi u školi. 
+Duration = 4935.300000095362 
+id = 3 
+Island Type = iq 
+Grade = 2 
+_______________________________
+
+Stimulus = Želim pojesti jabuku. 
+Duration = 4140.400000095367 
+id = 51 
+Island Type = nf 
+Grade = 2 
+_______________________________
+
+Stimulus = Kurir je razjasnio kada mora dostaviti paket. 
+Duration = 5713.200000095356 
+id = 6 
+Island Type = iq 
+Grade = 2 
+_______________________________
+
+Stimulus = Martin sutra ne dolazi na posao. 
+Duration = 3384.7000000000116 
+id = 21 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Pitao sam tko je jeo pleskavicu u restoranu. 
+Duration = 7356.700000000012 
+id = 11 
+Island Type = iq 
+Grade = 7 
+_______________________________
+
+Stimulus = Otac je pitao za koga da kupi sladoled u trgovini. 
+Duration = 4122.299999999988 
+id = 15 
+Island Type = iq 
+Grade = 7 
+_______________________________
+
+Stimulus = Više volim vino nego pivo. 
+Duration = 3608.899999904621 
+id = 56 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Našao sam nekakav Necronomicon na tavanu. 
+Duration = 4305.600000047707 
+id = 53 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Pronaći pravo stajalište bilo je vrlo lako. 
+Duration = 1835.8000000476604 
+id = 50 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Pitao sam kako se ponašati u takvim uvjetima. 
+Duration = 5078.900000047695 
+id = 18 
+Island Type = iq 
+Grade = 6 
+_______________________________
+
+Stimulus = Tvoja prijateljica pitala je gdje radi moj brat. 
+Duration = 5707.80000004766 
+id = 2 
+Island Type = iq 
+Grade = 3 
+_______________________________
+
+Stimulus = Ivan je požalio što se ponašao drsko na zabavi. 
+Duration = 4861.80000004766 
+id = 32 
+Island Type = fac 
+Grade = 2 
+_______________________________
+
+Stimulus = Pitao sam Antona gdje je ostavio moje slušalice. 
+Duration = 3636.499999952328 
+id = 16 
+Island Type = iq 
+Grade = 7 
+_______________________________
+
+Stimulus = Znam da je Marina izgubila ključeve. 
+Duration = 3615.500000047672 
+id = 41 
+Island Type = fac 
+Grade = 7 
+_______________________________
+
+Stimulus = Moj bogati ujak drži svoj novac u švicarskoj banci. 
+Duration = 1804.499999952328 
+id = 47 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Martin sutra ne dolazi na posao. 
+Duration = 5151.200000095356 
+id = 27 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Učitelj je pitao kome treba ponovno objasniti novo pravilo.. 
+Duration = 5900.200000095356 
+id = 5 
+Island Type = iq 
+Grade = 4 
+_______________________________
+
+Stimulus = Tvrtko neće moći provesti vikend s obitelji na Bahamima. 
+Duration = 3282.7999999999884 
+id = 28 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Zanima ih tko će kupiti posuđe za vjenčani dar. 
+Duration = 5482.899999904621 
+id = 1 
+Island Type = iq 
+Grade = 3 
+_______________________________
+
+Stimulus = Zanima ih što će Matej kupiti za vjenčani dar. 
+Duration = 4825.799999999988 
+id = 0 
+Island Type = iq 
+Grade = 1 
+_______________________________
+
+Stimulus = Ivo je rekao da je svog prijatelja nazvao u petak. 
+Duration = 5168.999999904656 
+id = 34 
+Island Type = fac 
+Grade = 7 
+_______________________________
+
+Stimulus = Na ljeto Slavko ide u USA na work and travel program. 
+Duration = 3929.600000047707 
+id = 8 
+Island Type = iq 
+Grade = 7 
+_______________________________
+
+Stimulus = Pitao sam Antona što je ostavio u mom stanu. 
+Duration = 5022.200000047684 
+id = 17 
+Island Type = iq 
+Grade = 4 
+_______________________________
+
+Stimulus = Kurir je razjasnio što mora dostaviti sutra. 
+Duration = 5056.900000047695 
+id = 7 
+Island Type = iq 
+Grade = 2 
+_______________________________
+
+Stimulus = Tvrtko neće moći provesti vikend s obitelji na Bahamima. 
+Duration = 1859.399999952293 
+id = 22 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Danijela ne voli gledati nogomet. 
+Duration = 2151.9000000476954 
+id = 25 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Perići znaju da se Petar tog dana vrlo brzo vozio kući. 
+Duration = 5369.300000095391 
+id = 38 
+Island Type = fac 
+Grade = 5 
+_______________________________
+
+Stimulus = Ivo je rekao da se smijao vrlo glasno u kinu. 
+Duration = 1710.499999952328 
+id = 35 
+Island Type = fac 
+Grade = 7 
+_______________________________
+
+Stimulus = Moja obitelj nije povela mog brata na odmor u Bugarsku. 
+Duration = 2989.8000000953907 
+id = 20 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Perići znaju da je Petar kupio sat na tržnici. 
+Duration = 3618.2999999999884 
+id = 37 
+Island Type = fac 
+Grade = 7 
+_______________________________
+
+Stimulus = Vraćajući se iz apoteke primijetila sam malog mačića na krovu auta. 
+Duration = 7966.900000095367 
+id = 52 
+Island Type = nf 
+Grade = 3 
+_______________________________
+
+Stimulus = Moja sestra platila je taksi od zračne luke. 
+Duration = 6347.5 
+id = 46 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Danijela ne voli gledati nogomet. 
+Duration = 1206.5 
+id = 19 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Klara misli da se Petar tog dana vrlo brzo vozio kući. 
+Duration = 4628.299999904586 
+id = 40 
+Island Type = fac 
+Grade = 7 
+_______________________________
+
+Stimulus = Ivan žali što je prolio 3 litre piva. 
+Duration = 3259.2000000476837 
+id = 33 
+Island Type = fac 
+Grade = 7 
+_______________________________
+
+Stimulus = Karina živi u Osijeku. 
+Duration = 2427.1999999046093 
+id = 49 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Stepan nije stignuo naučiti 3 pjesme za sat književnosti. 
+Duration = 5583.00000004773 
+id = 24 
+Island Type = neg 
+Grade = 6 
+_______________________________
+
+Stimulus = Slobodan se vratio kući. 
+Duration = 3384.399999952293 
+id = 44 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Moj djed je sanjao da postane pjevač a postao je biznismen. 
+Duration = 4071.6999999523396 
+id = 54 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = U posljednje vrijeme moja mala sestra se ne ponaša kao prije. 
+Duration = 5513.5 
+id = 23 
+Island Type = neg 
+Grade = 2 
+_______________________________
+
+Stimulus = Pitali smo gdje radi Grga. 
+Duration = 4450.000000095344 
+id = 12 
+Island Type = iq 
+Grade = 5 
+_______________________________
+
+Stimulus = Ivan je požalio što je šefa pozvao na zabavu. 
+Duration = 8451.000000095344 
+id = 31 
+Island Type = fac 
+Grade = 5 
+_______________________________
+
+Stimulus = Kriminalac izlazi iz trgovine. 
+Duration = 2700.700000095414 
+id = 43 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Moja obitelj nije povela mog brata na odmor u Bugarsku. 
+Duration = 4323.900000095367 
+id = 26 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Dobrom poštaru poklonili smo novi bicikl. 
+Duration = 1752.700000095414 
+id = 48 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Moj mlađi brat i sestra su bili u dvorištu. 
+Duration = 3515.8000000953907 
+id = 55 
+Island Type = nf 
+Grade = 5 
+_______________________________
+
+Stimulus = Klara misli da je Petar kupio sat na tržnici. 
+Duration = 5181.0 
+id = 39 
+Island Type = fac 
+Grade = 7 
+_______________________________
+
+Stimulus = Pitali smo tko radi u tom velikom uredu. 
+Duration = 5691.899999904679 
+id = 13 
+Island Type = iq 
+Grade = 5 
+_______________________________
+
+Stimulus = U posljednje vrijeme moja mala sestra ne ponaša se kao prije. 
+Duration = 5281.700000047684 
+id = 29 
+Island Type = neg 
+Grade = 6 
+_______________________________
+
+Stimulus = Na ljeto Slavko ide u USA na work and travel program. 
+Duration = 2354.6999999046093 
+id = 9 
+Island Type = iq 
+Grade = 7 
+_______________________________
+
+Stimulus = Pitao sam vlasnika kamioneta koliko benzina troši njegov auto. 
+Duration = 5777.899999952293 
+id = 14 
+Island Type = iq 
+Grade = 7 
+_______________________________
+
+Stimulus = Stepan nije stignuo naučiti 3 pjesme za sat književnosti. 
+Duration = 5988.899999952293 
+id = 30 
+Island Type = neg 
+Grade = 6 
+_______________________________
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Participant № 6  | Age =  32  | Knowlegde -  mother-tongue  | Education -  highschool  | Seriousness =  103  | Temper =  4.434782608695652  | Power =  23  | ID =  iPKLhLSMmI
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Stimulus = Mislim da je Marina izgubila laptop. 
+Duration = 4917.699999999997 
+id = 42 
+Island Type = fac 
+Grade = 4 
+_______________________________
+
+Stimulus = Učitelj je pitao što treba učenicima ponovno objasniti.. 
+Duration = 2724.999999999258 
+id = 4 
+Island Type = iq 
+Grade = 2 
+_______________________________
+
+Stimulus = Perići znaju da je Petar kupio sat na tržnici. 
+Duration = 3666.000000000742 
+id = 37 
+Island Type = fac 
+Grade = 6 
+_______________________________
+
+Stimulus = Moja sestra platila je taksi od zračne luke. 
+Duration = 5435.999999999622 
+id = 46 
+Island Type = gf 
+Grade = 4 
+_______________________________
+
+Stimulus = Stepan nije stignuo naučiti 3 pjesme za sat književnosti. 
+Duration = 6573.699999999997 
+id = 24 
+Island Type = neg 
+Grade = 3 
+_______________________________
+
+Stimulus = Martin sutra ne dolazi na posao. 
+Duration = 5226.399999999994 
+id = 21 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Klara misli da je Petar kupio sat na tržnici. 
+Duration = 4512.9000000003725 
+id = 39 
+Island Type = fac 
+Grade = 4 
+_______________________________
+
+Stimulus = Zanima ih tko će kupiti posuđe za vjenčani dar. 
+Duration = 2742.399999999994 
+id = 1 
+Island Type = iq 
+Grade = 1 
+_______________________________
+
+Stimulus = Danijela ne voli gledati nogomet. 
+Duration = 1305.6000000003842 
+id = 19 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Našao sam nekakav Necronomicon na tavanu. 
+Duration = 2153.899999999616 
+id = 53 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Vraćajući se iz apoteke primijetila sam malog mačića na krovu auta. 
+Duration = 3595.399999999994 
+id = 52 
+Island Type = nf 
+Grade = 3 
+_______________________________
+
+Stimulus = Kurir je razjasnio kada mora dostaviti paket. 
+Duration = 2138.599999999249 
+id = 6 
+Island Type = iq 
+Grade = 2 
+_______________________________
+
+Stimulus = Učitelj je pitao kome treba ponovno objasniti novo pravilo.. 
+Duration = 3473.9999999992433 
+id = 5 
+Island Type = iq 
+Grade = 4 
+_______________________________
+
+Stimulus = Ivan žali što je prolio 3 litre piva. 
+Duration = 3313.7000000007392 
+id = 33 
+Island Type = fac 
+Grade = 6 
+_______________________________
+
+Stimulus = Pitao sam Antona gdje je ostavio moje slušalice. 
+Duration = 3241.2000000007392 
+id = 16 
+Island Type = iq 
+Grade = 4 
+_______________________________
+
+Stimulus = Znam da je Marina izgubila ključeve. 
+Duration = 2867.2000000007392 
+id = 41 
+Island Type = fac 
+Grade = 5 
+_______________________________
+
+Stimulus = Ivo je rekao da je vidio dva slona na safariju. 
+Duration = 1803.7000000007392 
+id = 36 
+Island Type = fac 
+Grade = 7 
+_______________________________
+
+Stimulus = Moj bogati ujak drži svoj novac u švicarskoj banci. 
+Duration = 1564.699999999255 
+id = 47 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Ivan je požalio što je šefa pozvao na zabavu. 
+Duration = 2535.9000000003725 
+id = 31 
+Island Type = fac 
+Grade = 4 
+_______________________________
+
+Stimulus = Moja obitelj nije povela mog brata na odmor u Bugarsku. 
+Duration = 3547.3000000003667 
+id = 20 
+Island Type = neg 
+Grade = 7 
+_______________________________
+
+Stimulus = Pitali smo tko radi u tom velikom uredu. 
+Duration = 2673.600000000384 
+id = 13 
+Island Type = iq 
+Grade = 2 
+_______________________________
+
+Stimulus = Klara misli da se Petar tog dana vrlo brzo vozio kući. 
+Duration = 10191.300000001118 
+id = 40 
+Island Type = fac 
+Grade = 5 
+_______________________________
+
+Stimulus = Tvrtko neće moći provesti vikend s obitelji na Bahamima. 
+Duration = 3173.4000000014785 
+id = 22 
+Island Type = neg 
+Grade = 7 
+_______________________________

@@ -1,0 +1,6013 @@
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Participant № 1  | Age =  53  | Knowlegde -  mother-tongue  | Education -  master  | Seriousness =  98  | Temper =  4.509433962264151  | Power =  53  | ID =  0BJtjcDyfZ
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Stimulus = Što je Inna tri sata pročitala? 
+Duration = 3782.5000000715227 
+id = 39 
+Island Type = nf 
+Grade = 5 
+_______________________________
+
+Stimulus = Lijepe su samo crne čizme bile u ovom ormaru. 
+Duration = 3775.700000071527 
+id = 34 
+Island Type = di 
+Grade = 6 
+_______________________________
+
+Stimulus = Čega je riješio taj misterij? 
+Duration = 3318.8000000953616 
+id = 32 
+Island Type = di 
+Grade = 4 
+_______________________________
+
+Stimulus = Što si saznao tužnu vijest da je Petar izgubio u podzemnoj?? 
+Duration = 4436.1000000953645 
+id = 9 
+Island Type = cnp 
+Grade = 3 
+_______________________________
+
+Stimulus = Što ćemo uništit i saditi vrtove? 
+Duration = 2113.9000000953674 
+id = 5 
+Island Type = csi 
+Grade = 6 
+_______________________________
+
+Stimulus = Čije sam cvijeće izašao iz kuće i zaboravio zaliti? 
+Duration = 7077.300000095362 
+id = 4 
+Island Type = csi 
+Grade = 3 
+_______________________________
+
+Stimulus = Što je on plakao, čitajući? 
+Duration = 3797.6000000953645 
+id = 22 
+Island Type = ai 
+Grade = 3 
+_______________________________
+
+Stimulus = Kakva čovjeka svatko tko poznaje može potvrditi njegov integritet?? 
+Duration = 4389.900000095367 
+id = 12 
+Island Type = si 
+Grade = 2 
+_______________________________
+
+Stimulus = Petar i Mara su jučer otišli u kino pogledati dobru komediju.. 
+Duration = 2509.600000095379 
+id = 46 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = U sutra ne samo svatko jedan može gledati. 
+Duration = 3555.7999999999884 
+id = 45 
+Island Type = nf 
+Grade = 3 
+_______________________________
+
+Stimulus = Jedna vrlo duboka tamo postoji pećina. 
+Duration = 4029.399999999994 
+id = 37 
+Island Type = lbc 
+Grade = 5 
+_______________________________
+
+Stimulus = Večeras je Anna nalakirala nokte. 
+Duration = 3699.3000000238535 
+id = 49 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Nešto se mu otac za punoljetnost poklonio. 
+Duration = 5959.100000000006 
+id = 42 
+Island Type = nf 
+Grade = 3 
+_______________________________
+
+Stimulus = Stare su samo Čehovljeve priče bile u ovoj knjižnici.. 
+Duration = 4339.299999999988 
+id = 33 
+Island Type = di 
+Grade = 6 
+_______________________________
+
+Stimulus = Što Miloš je opljačkao banku da kupi? 
+Duration = 3748.600000095379 
+id = 20 
+Island Type = ai 
+Grade = 2 
+_______________________________
+
+Stimulus = Tko je jučer susjedu ukrao kobasicu? 
+Duration = 3525.2000000238477 
+id = 50 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Vidimo plažu daleko od koje smo bili. 
+Duration = 3118.8000000238535 
+id = 24 
+Island Type = ai 
+Grade = 5 
+_______________________________
+
+Stimulus = Tko je ovo bio jasan slučaj da je zapravo pohlepna osoba?? 
+Duration = 3761.600000000006 
+id = 8 
+Island Type = cnp 
+Grade = 2 
+_______________________________
+
+Stimulus = Za koliko novca nevjerojatno je da je Goran prodao svoj stan?? 
+Duration = 3668.4000000476954 
+id = 18 
+Island Type = si 
+Grade = 3 
+_______________________________
+
+Stimulus = O čemu je Ivo cijelu večer pričao? 
+Duration = 1862.2000000238477 
+id = 47 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Što mama hvali kćer koja je u školi dobila? 
+Duration = 7569.8000000238535 
+id = 11 
+Island Type = cnp 
+Grade = 2 
+_______________________________
+
+Stimulus = Na što je teško prestati besmisleno bacati novac? 
+Duration = 3316.40000002383 
+id = 13 
+Island Type = si 
+Grade = 7 
+_______________________________
+
+Stimulus = Tko ono da je prodao svoj stan za toliki novac nevjerojatno je?? 
+Duration = 4625.200000023819 
+id = 17 
+Island Type = si 
+Grade = 2 
+_______________________________
+
+Stimulus = Odakle si pješke ići prema Zadru? 
+Duration = 3484.600000023842 
+id = 44 
+Island Type = nf 
+Grade = 2 
+_______________________________
+
+Stimulus = Kakva je kraj mene biciklom prošla djevojka? 
+Duration = 4605.100000047707 
+id = 27 
+Island Type = ai 
+Grade = 5 
+_______________________________
+
+Stimulus = Što je kupio tata, i spremila je majka? 
+Duration = 4258.100000023842 
+id = 7 
+Island Type = csi 
+Grade = 5 
+_______________________________
+
+Stimulus = Što bismo voljeli da Drago napravi bez prigovora?? 
+Duration = 2542.4000000715023 
+id = 16 
+Island Type = si 
+Grade = 7 
+_______________________________
+
+Stimulus = Od čega je djed otišao u sanatorij odmarati? 
+Duration = 5734.40000002383 
+id = 30 
+Island Type = ai 
+Grade = 5 
+_______________________________
+
+Stimulus = Prije čega dobro je da smo stigli? 
+Duration = 2992.8000000238535 
+id = 15 
+Island Type = si 
+Grade = 7 
+_______________________________
+
+Stimulus = Vidimo plažu od koje smo bili daleko. 
+Duration = 2645.8000000953907 
+id = 25 
+Island Type = ai 
+Grade = 5 
+_______________________________
+
+Stimulus = Koliko čega Luka je zaboravio, on mi je posudio? 
+Duration = 5151.700000095356 
+id = 28 
+Island Type = ai 
+Grade = 2 
+_______________________________
+
+Stimulus = Što je kupio i majicu? 
+Duration = 5604.400000047695 
+id = 0 
+Island Type = csi 
+Grade = 4 
+_______________________________
+
+Stimulus = Kolike su trenutno plaće u hrvatskom sportu? 
+Duration = 1923.0000000715372 
+id = 35 
+Island Type = lbc 
+Grade = 7 
+_______________________________
+
+Stimulus = Komu tužno je gledati da ljudi i dalje daju novac?? 
+Duration = 3574.570000047679 
+id = 19 
+Island Type = si 
+Grade = 6 
+_______________________________
+
+Stimulus = Tko strah me i zamisliti s kakvim će se ogorčenjem vratiti kući?? 
+Duration = 3888.700000071549 
+id = 29 
+Island Type = ai 
+Grade = 2 
+_______________________________
+
+Stimulus = Koliko vidim dječaka kojem je ljubazni poštar poklonio bicikla?? 
+Duration = 3495.000000071537 
+id = 10 
+Island Type = cnp 
+Grade = 2 
+_______________________________
+
+Stimulus = Ove godine su se Viktor i Marta vjenčao. 
+Duration = 3762.100000071514 
+id = 38 
+Island Type = nf 
+Grade = 5 
+_______________________________
+
+Stimulus = Kakve izgrađene u viktorijansko doba te zgrade su izgrađene?? 
+Duration = 4107.300000095391 
+id = 43 
+Island Type = nf 
+Grade = 2 
+_______________________________
+
+Stimulus = Kad je Lena pronašla honorarni posao? 
+Duration = 3118.200000071549 
+id = 51 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Kakav sam vidio barku u oceanu? 
+Duration = 3066.000000071537 
+id = 41 
+Island Type = nf 
+Grade = 7 
+_______________________________
+
+Stimulus = Vjerojatno je tu lijepa nekad bila crkva. 
+Duration = 2832.200000071549 
+id = 36 
+Island Type = lbc 
+Grade = 6 
+_______________________________
+
+Stimulus = Što žele da Ivan pripremi, a Nikola da posprema kuću?? 
+Duration = 4738.200000071549 
+id = 3 
+Island Type = csi 
+Grade = 5 
+_______________________________
+
+Stimulus = Za kim su banditi imali pitanja? 
+Duration = 2709.700000071549 
+id = 40 
+Island Type = nf 
+Grade = 2 
+_______________________________
+
+Stimulus = Tko se zaljubio u djevojku kad je bio dijete? 
+Duration = 2821.2999999999884 
+id = 52 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Čega si gledao prepričavanje? 
+Duration = 2139.4000000953674 
+id = 31 
+Island Type = di 
+Grade = 7 
+_______________________________
+
+Stimulus = Što želiš da pronaći nije bilo teško? 
+Duration = 4790.099999999977 
+id = 14 
+Island Type = si 
+Grade = 4 
+_______________________________
+
+Stimulus = Kamo da ne odeš gladan, doručkovao si? 
+Duration = 3594.500000095344 
+id = 21 
+Island Type = ai 
+Grade = 3 
+_______________________________
+
+Stimulus = Oni su se svađali navečer, ali ujutro su sve pritužbe već bile zaboravljene.. 
+Duration = 4168.000000095344 
+id = 48 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Tko se nadaš da će napraviti prezentaciju, a Đure nacrtati sliku?? 
+Duration = 4673.800000095391 
+id = 2 
+Island Type = csi 
+Grade = 5 
+_______________________________
+
+Stimulus = Kamo je djevojka razmišljala o slobode, idući? 
+Duration = 3750.100000023842 
+id = 23 
+Island Type = ai 
+Grade = 2 
+_______________________________
+
+Stimulus = Čega je vidio muzej i obalu? 
+Duration = 2290.8000000715256 
+id = 1 
+Island Type = csi 
+Grade = 2 
+_______________________________
+
+Stimulus = Sanjam dvorac iz kojeg se čuje glasan plač daleko.. 
+Duration = 3854.9000000953674 
+id = 26 
+Island Type = ai 
+Grade = 5 
+_______________________________
+
+Stimulus = To su oni siromasi, koje je htio nahraniti i moliti se bogu.. 
+Duration = 6139.40000002383 
+id = 6 
+Island Type = csi 
+Grade = 4 
+_______________________________
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Participant № 2  | Age =  34  | Knowlegde -  mother-tongue  | Education -  master  | Seriousness =  168  | Temper =  3.4150943396226414  | Power =  53  | ID =  2PuMEJFsNx
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Stimulus = Što Miloš je opljačkao banku da kupi? 
+Duration = 6586.299999999988 
+id = 20 
+Island Type = ai 
+Grade = 4 
+_______________________________
+
+Stimulus = Od čega je djed otišao u sanatorij odmarati? 
+Duration = 2843.0000001430453 
+id = 30 
+Island Type = ai 
+Grade = 6 
+_______________________________
+
+Stimulus = Na što je teško prestati besmisleno bacati novac? 
+Duration = 5180.500000095373 
+id = 13 
+Island Type = si 
+Grade = 7 
+_______________________________
+
+Stimulus = Sanjam dvorac iz kojeg se čuje glasan plač daleko.. 
+Duration = 4994.800000190735 
+id = 26 
+Island Type = ai 
+Grade = 7 
+_______________________________
+
+Stimulus = Kakav sam vidio barku u oceanu? 
+Duration = 4532.700000047684 
+id = 41 
+Island Type = nf 
+Grade = 4 
+_______________________________
+
+Stimulus = Što je kupio i majicu? 
+Duration = 3975.600000047678 
+id = 0 
+Island Type = csi 
+Grade = 4 
+_______________________________
+
+Stimulus = Za koliko novca nevjerojatno je da je Goran prodao svoj stan?? 
+Duration = 3018.5 
+id = 18 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Što bismo voljeli da Drago napravi bez prigovora?? 
+Duration = 2168.100000095379 
+id = 16 
+Island Type = si 
+Grade = 7 
+_______________________________
+
+Stimulus = Koliko vidim dječaka kojem je ljubazni poštar poklonio bicikla?? 
+Duration = 2913.100000190723 
+id = 10 
+Island Type = cnp 
+Grade = 2 
+_______________________________
+
+Stimulus = Što je kupio tata, i spremila je majka? 
+Duration = 2333.100000095379 
+id = 7 
+Island Type = csi 
+Grade = 4 
+_______________________________
+
+Stimulus = To su oni siromasi, koje je htio nahraniti i moliti se bogu.. 
+Duration = 4752.900000095367 
+id = 6 
+Island Type = csi 
+Grade = 3 
+_______________________________
+
+Stimulus = Kakva čovjeka svatko tko poznaje može potvrditi njegov integritet?? 
+Duration = 2622.100000047707 
+id = 12 
+Island Type = si 
+Grade = 2 
+_______________________________
+
+Stimulus = Vidimo plažu od koje smo bili daleko. 
+Duration = 3303.9000001907116 
+id = 25 
+Island Type = ai 
+Grade = 7 
+_______________________________
+
+Stimulus = Čije sam cvijeće izašao iz kuće i zaboravio zaliti? 
+Duration = 3096.4000000000233 
+id = 4 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko se nadaš da će napraviti prezentaciju, a Đure nacrtati sliku?? 
+Duration = 3983.000000095344 
+id = 2 
+Island Type = csi 
+Grade = 3 
+_______________________________
+
+Stimulus = Kakve izgrađene u viktorijansko doba te zgrade su izgrađene?? 
+Duration = 2703.5999999999767 
+id = 43 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Što žele da Ivan pripremi, a Nikola da posprema kuću?? 
+Duration = 4149.200000143028 
+id = 3 
+Island Type = csi 
+Grade = 3 
+_______________________________
+
+Stimulus = Oni su se svađali navečer, ali ujutro su sve pritužbe već bile zaboravljene.. 
+Duration = 3644.5999999999767 
+id = 48 
+Island Type = gf 
+Grade = 6 
+_______________________________
+
+Stimulus = Tko je jučer susjedu ukrao kobasicu? 
+Duration = 1575.8000001430628 
+id = 50 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Vjerojatno je tu lijepa nekad bila crkva. 
+Duration = 5016.400000047695 
+id = 36 
+Island Type = lbc 
+Grade = 4 
+_______________________________
+
+Stimulus = Odakle si pješke ići prema Zadru? 
+Duration = 2665.2999999999884 
+id = 44 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Za kim su banditi imali pitanja? 
+Duration = 1595.2000000953558 
+id = 40 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Što mama hvali kćer koja je u školi dobila? 
+Duration = 1874.4000000953674 
+id = 11 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko se zaljubio u djevojku kad je bio dijete? 
+Duration = 3004.500000047672 
+id = 52 
+Island Type = gf 
+Grade = 5 
+_______________________________
+
+Stimulus = Kakva je kraj mene biciklom prošla djevojka? 
+Duration = 4244.100000095379 
+id = 27 
+Island Type = ai 
+Grade = 3 
+_______________________________
+
+Stimulus = Komu tužno je gledati da ljudi i dalje daju novac?? 
+Duration = 3017.500000047672 
+id = 19 
+Island Type = si 
+Grade = 2 
+_______________________________
+
+Stimulus = Kamo da ne odeš gladan, doručkovao si? 
+Duration = 2476.2000000000116 
+id = 21 
+Island Type = ai 
+Grade = 2 
+_______________________________
+
+Stimulus = Petar i Mara su jučer otišli u kino pogledati dobru komediju.. 
+Duration = 4622.900000095367 
+id = 46 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Koliko čega Luka je zaboravio, on mi je posudio? 
+Duration = 2080.5999999999767 
+id = 28 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko ono da je prodao svoj stan za toliki novac nevjerojatno je?? 
+Duration = 2767.9000001430395 
+id = 17 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Večeras je Anna nalakirala nokte. 
+Duration = 1966.5000000953441 
+id = 49 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Ove godine su se Viktor i Marta vjenčao. 
+Duration = 2972.700000143028 
+id = 38 
+Island Type = nf 
+Grade = 2 
+_______________________________
+
+Stimulus = Tko je ovo bio jasan slučaj da je zapravo pohlepna osoba?? 
+Duration = 3629.7000000476837 
+id = 8 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Prije čega dobro je da smo stigli? 
+Duration = 2585.9000000953674 
+id = 15 
+Island Type = si 
+Grade = 6 
+_______________________________
+
+Stimulus = Što želiš da pronaći nije bilo teško? 
+Duration = 2667.0000001907465 
+id = 14 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = U sutra ne samo svatko jedan može gledati. 
+Duration = 2331.700000095356 
+id = 45 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Kamo je djevojka razmišljala o slobode, idući? 
+Duration = 2671.2000000000116 
+id = 23 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Jedna vrlo duboka tamo postoji pećina. 
+Duration = 3441.100000095379 
+id = 37 
+Island Type = lbc 
+Grade = 4 
+_______________________________
+
+Stimulus = Vidimo plažu daleko od koje smo bili. 
+Duration = 3295.700000143028 
+id = 24 
+Island Type = ai 
+Grade = 4 
+_______________________________
+
+Stimulus = Stare su samo Čehovljeve priče bile u ovoj knjižnici.. 
+Duration = 4743.700000095356 
+id = 33 
+Island Type = di 
+Grade = 3 
+_______________________________
+
+Stimulus = Što je on plakao, čitajući? 
+Duration = 1873.8000001430628 
+id = 22 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Što si saznao tužnu vijest da je Petar izgubio u podzemnoj?? 
+Duration = 2855.200000143028 
+id = 9 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Čega je vidio muzej i obalu? 
+Duration = 2542.5000001906883 
+id = 1 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = O čemu je Ivo cijelu večer pričao? 
+Duration = 1740.5000001906883 
+id = 47 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Što ćemo uništit i saditi vrtove? 
+Duration = 3041.8000000476604 
+id = 5 
+Island Type = csi 
+Grade = 6 
+_______________________________
+
+Stimulus = Nešto se mu otac za punoljetnost poklonio. 
+Duration = 2635.3000000000466 
+id = 42 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko strah me i zamisliti s kakvim će se ogorčenjem vratiti kući?? 
+Duration = 2365.500000095344 
+id = 29 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Kad je Lena pronašla honorarni posao? 
+Duration = 1778.0000001906883 
+id = 51 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Lijepe su samo crne čizme bile u ovom ormaru. 
+Duration = 3096.700000143028 
+id = 34 
+Island Type = di 
+Grade = 4 
+_______________________________
+
+Stimulus = Kolike su trenutno plaće u hrvatskom sportu? 
+Duration = 2412.5999999999767 
+id = 35 
+Island Type = lbc 
+Grade = 6 
+_______________________________
+
+Stimulus = Čega si gledao prepričavanje? 
+Duration = 3950.8000000000466 
+id = 31 
+Island Type = di 
+Grade = 7 
+_______________________________
+
+Stimulus = Čega je riješio taj misterij? 
+Duration = 1691.3000001907349 
+id = 32 
+Island Type = di 
+Grade = 1 
+_______________________________
+
+Stimulus = Što je Inna tri sata pročitala? 
+Duration = 2508.600000143051 
+id = 39 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Participant № 3  | Age =  18  | Knowlegde -  mother-tongue  | Education -  highschool  | Seriousness =  61  | Temper =  3.3333333333333335  | Power =  6  | ID =  3IbX4RX_3Z
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Stimulus = Kad je Lena pronašla honorarni posao? 
+Duration = 3666.100000047678 
+id = 51 
+Island Type = gf 
+Grade = 5 
+_______________________________
+
+Stimulus = Ove godine su se Viktor i Marta vjenčao. 
+Duration = 3248.003999952314 
+id = 38 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = O čemu je Ivo cijelu večer pričao? 
+Duration = 2164.3000000238535 
+id = 47 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Čega je vidio muzej i obalu? 
+Duration = 2742.5999999523046 
+id = 1 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Stare su samo Čehovljeve priče bile u ovoj knjižnici.. 
+Duration = 4402.5 
+id = 33 
+Island Type = di 
+Grade = 5 
+_______________________________
+
+Stimulus = Kakva čovjeka svatko tko poznaje može potvrditi njegov integritet?? 
+Duration = 4590.200000000012 
+id = 12 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Participant № 4  | Age =  32  | Knowlegde -  mother-tongue  | Education -  master  | Seriousness =  223  | Temper =  3.641509433962264  | Power =  53  | ID =  6q8-cdK9ew
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Stimulus = Što je Inna tri sata pročitala? 
+Duration = 4705.8000000476895 
+id = 39 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Večeras je Anna nalakirala nokte. 
+Duration = 5497.899999952322 
+id = 49 
+Island Type = gf 
+Grade = 6 
+_______________________________
+
+Stimulus = Kakva čovjeka svatko tko poznaje može potvrditi njegov integritet?? 
+Duration = 4805.79999990463 
+id = 12 
+Island Type = si 
+Grade = 2 
+_______________________________
+
+Stimulus = Tko se zaljubio u djevojku kad je bio dijete? 
+Duration = 4665.499999952328 
+id = 52 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Tko je ovo bio jasan slučaj da je zapravo pohlepna osoba?? 
+Duration = 2473.7000000476837 
+id = 8 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Ove godine su se Viktor i Marta vjenčao. 
+Duration = 3290.499999952328 
+id = 38 
+Island Type = nf 
+Grade = 2 
+_______________________________
+
+Stimulus = Stare su samo Čehovljeve priče bile u ovoj knjižnici.. 
+Duration = 3666.399999904621 
+id = 33 
+Island Type = di 
+Grade = 3 
+_______________________________
+
+Stimulus = Što je kupio i majicu? 
+Duration = 2734.0 
+id = 0 
+Island Type = csi 
+Grade = 2 
+_______________________________
+
+Stimulus = Tko strah me i zamisliti s kakvim će se ogorčenjem vratiti kući?? 
+Duration = 5650.800000095362 
+id = 29 
+Island Type = ai 
+Grade = 7 
+_______________________________
+
+Stimulus = To su oni siromasi, koje je htio nahraniti i moliti se bogu.. 
+Duration = 3157.8000000953616 
+id = 6 
+Island Type = csi 
+Grade = 7 
+_______________________________
+
+Stimulus = Kakva je kraj mene biciklom prošla djevojka? 
+Duration = 6060.200000047684 
+id = 27 
+Island Type = ai 
+Grade = 5 
+_______________________________
+
+Stimulus = Vjerojatno je tu lijepa nekad bila crkva. 
+Duration = 3801.4999999046267 
+id = 36 
+Island Type = lbc 
+Grade = 4 
+_______________________________
+
+Stimulus = Tko se nadaš da će napraviti prezentaciju, a Đure nacrtati sliku?? 
+Duration = 3726.7000000000116 
+id = 2 
+Island Type = csi 
+Grade = 2 
+_______________________________
+
+Stimulus = Lijepe su samo crne čizme bile u ovom ormaru. 
+Duration = 4578.600000000006 
+id = 34 
+Island Type = di 
+Grade = 4 
+_______________________________
+
+Stimulus = Što mama hvali kćer koja je u školi dobila? 
+Duration = 6270.100000047678 
+id = 11 
+Island Type = cnp 
+Grade = 2 
+_______________________________
+
+Stimulus = Komu tužno je gledati da ljudi i dalje daju novac?? 
+Duration = 3070.2000000000116 
+id = 19 
+Island Type = si 
+Grade = 2 
+_______________________________
+
+Stimulus = Tko ono da je prodao svoj stan za toliki novac nevjerojatno je?? 
+Duration = 4279.5 
+id = 17 
+Island Type = si 
+Grade = 3 
+_______________________________
+
+Stimulus = Vidimo plažu od koje smo bili daleko. 
+Duration = 4379.499999952328 
+id = 25 
+Island Type = ai 
+Grade = 4 
+_______________________________
+
+Stimulus = Vidimo plažu daleko od koje smo bili. 
+Duration = 4771.5 
+id = 24 
+Island Type = ai 
+Grade = 4 
+_______________________________
+
+Stimulus = O čemu je Ivo cijelu večer pričao? 
+Duration = 2579.9000000953674 
+id = 47 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Čega si gledao prepričavanje? 
+Duration = 2988.4000000953674 
+id = 31 
+Island Type = di 
+Grade = 3 
+_______________________________
+
+Stimulus = Što je kupio tata, i spremila je majka? 
+Duration = 2988.500000047672 
+id = 7 
+Island Type = csi 
+Grade = 5 
+_______________________________
+
+Stimulus = Čega je vidio muzej i obalu? 
+Duration = 1672.0999999046326 
+id = 1 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Što žele da Ivan pripremi, a Nikola da posprema kuću?? 
+Duration = 2814.2999999999884 
+id = 3 
+Island Type = csi 
+Grade = 3 
+_______________________________
+
+Stimulus = Koliko čega Luka je zaboravio, on mi je posudio? 
+Duration = 2799.1999999523396 
+id = 28 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Što bismo voljeli da Drago napravi bez prigovora?? 
+Duration = 2031.600000095379 
+id = 16 
+Island Type = si 
+Grade = 7 
+_______________________________
+
+Stimulus = Za kim su banditi imali pitanja? 
+Duration = 2664.6999999523396 
+id = 40 
+Island Type = nf 
+Grade = 3 
+_______________________________
+
+Stimulus = Petar i Mara su jučer otišli u kino pogledati dobru komediju.. 
+Duration = 2790.499999904656 
+id = 46 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Što je on plakao, čitajući? 
+Duration = 3515.5999999046326 
+id = 22 
+Island Type = ai 
+Grade = 2 
+_______________________________
+
+Stimulus = Koliko vidim dječaka kojem je ljubazni poštar poklonio bicikla?? 
+Duration = 2099.4000000476954 
+id = 10 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Što želiš da pronaći nije bilo teško? 
+Duration = 2682.5999999999767 
+id = 14 
+Island Type = si 
+Grade = 2 
+_______________________________
+
+Stimulus = Za koliko novca nevjerojatno je da je Goran prodao svoj stan?? 
+Duration = 3174.6999999523396 
+id = 18 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Čega je riješio taj misterij? 
+Duration = 1874.899999904621 
+id = 32 
+Island Type = di 
+Grade = 3 
+_______________________________
+
+Stimulus = Kolike su trenutno plaće u hrvatskom sportu? 
+Duration = 1758.399999952293 
+id = 35 
+Island Type = lbc 
+Grade = 7 
+_______________________________
+
+Stimulus = Kakav sam vidio barku u oceanu? 
+Duration = 2299.9000000476954 
+id = 41 
+Island Type = nf 
+Grade = 3 
+_______________________________
+
+Stimulus = Kad je Lena pronašla honorarni posao? 
+Duration = 2000.4000000953674 
+id = 51 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Nešto se mu otac za punoljetnost poklonio. 
+Duration = 3134.0999999046326 
+id = 42 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Što ćemo uništit i saditi vrtove? 
+Duration = 2892.7000000000116 
+id = 5 
+Island Type = csi 
+Grade = 5 
+_______________________________
+
+Stimulus = U sutra ne samo svatko jedan može gledati. 
+Duration = 2034.2999999046442 
+id = 45 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Odakle si pješke ići prema Zadru? 
+Duration = 3018.0 
+id = 44 
+Island Type = nf 
+Grade = 2 
+_______________________________
+
+Stimulus = Čije sam cvijeće izašao iz kuće i zaboravio zaliti? 
+Duration = 3001.2000000476837 
+id = 4 
+Island Type = csi 
+Grade = 3 
+_______________________________
+
+Stimulus = Kakve izgrađene u viktorijansko doba te zgrade su izgrađene?? 
+Duration = 3011.2000000476837 
+id = 43 
+Island Type = nf 
+Grade = 2 
+_______________________________
+
+Stimulus = Što Miloš je opljačkao banku da kupi? 
+Duration = 3011.7000000476837 
+id = 20 
+Island Type = ai 
+Grade = 6 
+_______________________________
+
+Stimulus = Jedna vrlo duboka tamo postoji pećina. 
+Duration = 3319.999999952328 
+id = 37 
+Island Type = lbc 
+Grade = 1 
+_______________________________
+
+Stimulus = Kamo je djevojka razmišljala o slobode, idući? 
+Duration = 2378.8000000476604 
+id = 23 
+Island Type = ai 
+Grade = 2 
+_______________________________
+
+Stimulus = Oni su se svađali navečer, ali ujutro su sve pritužbe već bile zaboravljene.. 
+Duration = 2845.600000095379 
+id = 48 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Na što je teško prestati besmisleno bacati novac? 
+Duration = 1728.9000000000233 
+id = 13 
+Island Type = si 
+Grade = 7 
+_______________________________
+
+Stimulus = Kamo da ne odeš gladan, doručkovao si? 
+Duration = 1778.9000000953674 
+id = 21 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko je jučer susjedu ukrao kobasicu? 
+Duration = 1937.3000000476604 
+id = 50 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Što si saznao tužnu vijest da je Petar izgubio u podzemnoj?? 
+Duration = 3655.7999999523163 
+id = 9 
+Island Type = cnp 
+Grade = 3 
+_______________________________
+
+Stimulus = Sanjam dvorac iz kojeg se čuje glasan plač daleko.. 
+Duration = 3439.0 
+id = 26 
+Island Type = ai 
+Grade = 5 
+_______________________________
+
+Stimulus = Prije čega dobro je da smo stigli? 
+Duration = 2680.5999999046326 
+id = 15 
+Island Type = si 
+Grade = 3 
+_______________________________
+
+Stimulus = Od čega je djed otišao u sanatorij odmarati? 
+Duration = 2755.399999952293 
+id = 30 
+Island Type = ai 
+Grade = 6 
+_______________________________
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Participant № 5  | Age =  24  | Knowlegde -  mother-tongue  | Education -  highschool  | Seriousness =  62  | Temper =  6.0  | Power =  2  | ID =  Am3KlW_S9_
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Stimulus = Kad je Lena pronašla honorarni posao? 
+Duration = 3151.800000008938 
+id = 51 
+Island Type = gf 
+Grade = 6 
+_______________________________
+
+Stimulus = Od čega je djed otišao u sanatorij odmarati? 
+Duration = 4190.9000000059605 
+id = 30 
+Island Type = ai 
+Grade = 6 
+_______________________________
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Participant № 6  | Age =  27  | Knowlegde -  mother-tongue  | Education -  master  | Seriousness =  238  | Temper =  4.226415094339623  | Power =  53  | ID =  BMPNF2epqC
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Stimulus = Večeras je Anna nalakirala nokte. 
+Duration = 2389.699999999997 
+id = 49 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Kakve izgrađene u viktorijansko doba te zgrade su izgrađene?? 
+Duration = 9254.199999999997 
+id = 43 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Stare su samo Čehovljeve priče bile u ovoj knjižnici.. 
+Duration = 7559.968000095367 
+id = 33 
+Island Type = di 
+Grade = 6 
+_______________________________
+
+Stimulus = Što Miloš je opljačkao banku da kupi? 
+Duration = 6036.400000143054 
+id = 20 
+Island Type = ai 
+Grade = 4 
+_______________________________
+
+Stimulus = Što je kupio tata, i spremila je majka? 
+Duration = 7003.700000095356 
+id = 7 
+Island Type = csi 
+Grade = 2 
+_______________________________
+
+Stimulus = Čega je riješio taj misterij? 
+Duration = 3682.4000000953674 
+id = 32 
+Island Type = di 
+Grade = 2 
+_______________________________
+
+Stimulus = Što želiš da pronaći nije bilo teško? 
+Duration = 2979.4000001907407 
+id = 14 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Kamo je djevojka razmišljala o slobode, idući? 
+Duration = 2412.100000000006 
+id = 23 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Što je Inna tri sata pročitala? 
+Duration = 2429.100000095379 
+id = 39 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Lijepe su samo crne čizme bile u ovom ormaru. 
+Duration = 3864.0000000953733 
+id = 34 
+Island Type = di 
+Grade = 7 
+_______________________________
+
+Stimulus = Što bismo voljeli da Drago napravi bez prigovora?? 
+Duration = 2882.9000000953674 
+id = 16 
+Island Type = si 
+Grade = 7 
+_______________________________
+
+Stimulus = Vidimo plažu od koje smo bili daleko. 
+Duration = 3385.0 
+id = 25 
+Island Type = ai 
+Grade = 7 
+_______________________________
+
+Stimulus = Tko se zaljubio u djevojku kad je bio dijete? 
+Duration = 3471.9000001907407 
+id = 52 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Za koliko novca nevjerojatno je da je Goran prodao svoj stan?? 
+Duration = 3990.600000190723 
+id = 18 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Za kim su banditi imali pitanja? 
+Duration = 2737.8000000953616 
+id = 40 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = To su oni siromasi, koje je htio nahraniti i moliti se bogu.. 
+Duration = 4367.800000190735 
+id = 6 
+Island Type = csi 
+Grade = 7 
+_______________________________
+
+Stimulus = Kamo da ne odeš gladan, doručkovao si? 
+Duration = 6034.600000190723 
+id = 21 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Koliko čega Luka je zaboravio, on mi je posudio? 
+Duration = 4357.200000190729 
+id = 28 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Ove godine su se Viktor i Marta vjenčao. 
+Duration = 2646.5000001907465 
+id = 38 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Nešto se mu otac za punoljetnost poklonio. 
+Duration = 3176.700000190729 
+id = 42 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Prije čega dobro je da smo stigli? 
+Duration = 4004.600000190723 
+id = 15 
+Island Type = si 
+Grade = 5 
+_______________________________
+
+Stimulus = Čije sam cvijeće izašao iz kuće i zaboravio zaliti? 
+Duration = 4140.900000190712 
+id = 4 
+Island Type = csi 
+Grade = 7 
+_______________________________
+
+Stimulus = Što ćemo uništit i saditi vrtove? 
+Duration = 3197.800000190735 
+id = 5 
+Island Type = csi 
+Grade = 6 
+_______________________________
+
+Stimulus = Što žele da Ivan pripremi, a Nikola da posprema kuću?? 
+Duration = 4770.800000190735 
+id = 3 
+Island Type = csi 
+Grade = 3 
+_______________________________
+
+Stimulus = Čega si gledao prepričavanje? 
+Duration = 1477.5000001907465 
+id = 31 
+Island Type = di 
+Grade = 7 
+_______________________________
+
+Stimulus = Što je on plakao, čitajući? 
+Duration = 2899.700000190758 
+id = 22 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Na što je teško prestati besmisleno bacati novac? 
+Duration = 4442.100000190723 
+id = 13 
+Island Type = si 
+Grade = 7 
+_______________________________
+
+Stimulus = Koliko vidim dječaka kojem je ljubazni poštar poklonio bicikla?? 
+Duration = 5815.300000190735 
+id = 10 
+Island Type = cnp 
+Grade = 5 
+_______________________________
+
+Stimulus = U sutra ne samo svatko jedan može gledati. 
+Duration = 3806.500000047672 
+id = 45 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Sanjam dvorac iz kojeg se čuje glasan plač daleko.. 
+Duration = 2330.600000190723 
+id = 26 
+Island Type = ai 
+Grade = 7 
+_______________________________
+
+Stimulus = Petar i Mara su jučer otišli u kino pogledati dobru komediju.. 
+Duration = 2773.3000000476604 
+id = 46 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Komu tužno je gledati da ljudi i dalje daju novac?? 
+Duration = 4752.400000190712 
+id = 19 
+Island Type = si 
+Grade = 7 
+_______________________________
+
+Stimulus = Što je kupio i majicu? 
+Duration = 1758.500000047672 
+id = 0 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Od čega je djed otišao u sanatorij odmarati? 
+Duration = 2984.500000047672 
+id = 30 
+Island Type = ai 
+Grade = 7 
+_______________________________
+
+Stimulus = Tko ono da je prodao svoj stan za toliki novac nevjerojatno je?? 
+Duration = 4609.000000143074 
+id = 17 
+Island Type = si 
+Grade = 3 
+_______________________________
+
+Stimulus = Što mama hvali kćer koja je u školi dobila? 
+Duration = 4151.300000190735 
+id = 11 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Odakle si pješke ići prema Zadru? 
+Duration = 1591.3000000476604 
+id = 44 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Kakav sam vidio barku u oceanu? 
+Duration = 4419.000000047672 
+id = 41 
+Island Type = nf 
+Grade = 4 
+_______________________________
+
+Stimulus = O čemu je Ivo cijelu večer pričao? 
+Duration = 2013.600000047707 
+id = 47 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Jedna vrlo duboka tamo postoji pećina. 
+Duration = 2803.4000000476954 
+id = 37 
+Island Type = lbc 
+Grade = 7 
+_______________________________
+
+Stimulus = Kakva čovjeka svatko tko poznaje može potvrditi njegov integritet?? 
+Duration = 3565.600000190723 
+id = 12 
+Island Type = si 
+Grade = 2 
+_______________________________
+
+Stimulus = Tko je jučer susjedu ukrao kobasicu? 
+Duration = 2321.4000001907116 
+id = 50 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Vidimo plažu daleko od koje smo bili. 
+Duration = 2503.3000000953907 
+id = 24 
+Island Type = ai 
+Grade = 7 
+_______________________________
+
+Stimulus = Vjerojatno je tu lijepa nekad bila crkva. 
+Duration = 2872.200000143028 
+id = 36 
+Island Type = lbc 
+Grade = 7 
+_______________________________
+
+Stimulus = Čega je vidio muzej i obalu? 
+Duration = 2899.3060000477126 
+id = 1 
+Island Type = csi 
+Grade = 7 
+_______________________________
+
+Stimulus = Kakva je kraj mene biciklom prošla djevojka? 
+Duration = 1452.5000000953441 
+id = 27 
+Island Type = ai 
+Grade = 7 
+_______________________________
+
+Stimulus = Tko se nadaš da će napraviti prezentaciju, a Đure nacrtati sliku?? 
+Duration = 4497.700000143028 
+id = 2 
+Island Type = csi 
+Grade = 3 
+_______________________________
+
+Stimulus = Tko strah me i zamisliti s kakvim će se ogorčenjem vratiti kući?? 
+Duration = 1959.9000001907116 
+id = 29 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Kad je Lena pronašla honorarni posao? 
+Duration = 1652.7000000953558 
+id = 51 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Tko je ovo bio jasan slučaj da je zapravo pohlepna osoba?? 
+Duration = 3567.3000000476604 
+id = 8 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Oni su se svađali navečer, ali ujutro su sve pritužbe već bile zaboravljene.. 
+Duration = 2094.500000047672 
+id = 48 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Što si saznao tužnu vijest da je Petar izgubio u podzemnoj?? 
+Duration = 1734.3000000476604 
+id = 9 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Kolike su trenutno plaće u hrvatskom sportu? 
+Duration = 2038.3000000476604 
+id = 35 
+Island Type = lbc 
+Grade = 7 
+_______________________________
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Participant № 7  | Age =  42  | Knowlegde -  master  | Education -  male  | Seriousness =  253  | Temper =  3.3773584905660377  | Power =  53  | ID =  37775
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Stimulus = Jedna vrlo duboka tamo postoji pećina. 
+Duration = 8072.000000023836 
+id = 37 
+Island Type = lbc 
+Grade = 3 
+_______________________________
+
+Stimulus = Za kim su banditi imali pitanja? 
+Duration = 8817.90000002383 
+id = 40 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Kad je Lena pronašla honorarni posao? 
+Duration = 9538.09999997617 
+id = 51 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Stare su samo Čehovljeve priče bile u ovoj knjižnici.. 
+Duration = 9938.40000002383 
+id = 33 
+Island Type = di 
+Grade = 3 
+_______________________________
+
+Stimulus = Na što je teško prestati besmisleno bacati novac? 
+Duration = 9150.90000002383 
+id = 13 
+Island Type = si 
+Grade = 6 
+_______________________________
+
+Stimulus = Kamo da ne odeš gladan, doručkovao si? 
+Duration = 5996.399999988091 
+id = 21 
+Island Type = ai 
+Grade = 2 
+_______________________________
+
+Stimulus = Koliko vidim dječka kojem je ljubazni poštar poklonio bicikla?? 
+Duration = 5741.503999988083 
+id = 10 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko se nadaš da će napraviti prezentaciju, a Đure nacrtati sliku?? 
+Duration = 8167.100000011909 
+id = 2 
+Island Type = csi 
+Grade = 3 
+_______________________________
+
+Stimulus = Odakle si pješke ići prema Zadru? 
+Duration = 4263.399999988091 
+id = 44 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Čega je vidjeo muzej i obalu? 
+Duration = 5266.799999988056 
+id = 1 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Ove godine su se Viktor i Marta vjenčao. 
+Duration = 8153.399999988091 
+id = 38 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko ono da je prodao svoj stan za toliki novac nevjerojatno je?? 
+Duration = 8800.099999988102 
+id = 17 
+Island Type = si 
+Grade = 2 
+_______________________________
+
+Stimulus = Tko je jučer susjedu ukrao kobasicu? 
+Duration = 5335.999999988067 
+id = 50 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Vidimo plažu daleko od koje smo bili. 
+Duration = 8735.099999988102 
+id = 24 
+Island Type = ai 
+Grade = 6 
+_______________________________
+
+Stimulus = Što ćemo uništit i saditi vrtove? 
+Duration = 7239.268000023847 
+id = 5 
+Island Type = csi 
+Grade = 5 
+_______________________________
+
+Stimulus = Kakve izgrađene u viktorijansko doba te zgrade su izgrađene?? 
+Duration = 6579.899999988091 
+id = 43 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Što želiš da bi pronaći nije bilo teško? 
+Duration = 3737.699999988079 
+id = 14 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Čega je riješio taj misterij? 
+Duration = 8378.599999999977 
+id = 32 
+Island Type = di 
+Grade = 3 
+_______________________________
+
+Stimulus = Prije čega dobro je da smo stigli? 
+Duration = 9938.700000023819 
+id = 15 
+Island Type = si 
+Grade = 3 
+_______________________________
+
+Stimulus = To su oni siromasi, koje je htio nahraniti i moliti se bogu.. 
+Duration = 10234.799999976181 
+id = 6 
+Island Type = csi 
+Grade = 5 
+_______________________________
+
+Stimulus = Od čega je djed otišao u sanatorij odmarati? 
+Duration = 7943.500000011933 
+id = 30 
+Island Type = ai 
+Grade = 5 
+_______________________________
+
+Stimulus = Kolike su trenutno plaće u hrvatskom sportu? 
+Duration = 7961.499999988067 
+id = 35 
+Island Type = lbc 
+Grade = 7 
+_______________________________
+
+Stimulus = Kakva je kraj mene biciklom prošla djevojka? 
+Duration = 5760.500000023865 
+id = 27 
+Island Type = ai 
+Grade = 5 
+_______________________________
+
+Stimulus = Što je kupio tata, i spremila je majka? 
+Duration = 7187.299999988056 
+id = 7 
+Island Type = csi 
+Grade = 3 
+_______________________________
+
+Stimulus = Nešto se mu otac za punoljetnost poklonio. 
+Duration = 5468.990000023856 
+id = 42 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Večeras je Anna nalakirala nokte. 
+Duration = 7476.90000002383 
+id = 49 
+Island Type = gf 
+Grade = 6 
+_______________________________
+
+Stimulus = Što Miloš je opljačkao banku da kupi? 
+Duration = 8383.900000011898 
+id = 20 
+Island Type = ai 
+Grade = 3 
+_______________________________
+
+Stimulus = O čemu je Ivo cijelu večer pričao? 
+Duration = 4467.200000011944 
+id = 47 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Što je on plakao, čitajući? 
+Duration = 9475.700000011944 
+id = 22 
+Island Type = ai 
+Grade = 2 
+_______________________________
+
+Stimulus = Što je kupio i majicu? 
+Duration = 5940.299999988056 
+id = 0 
+Island Type = csi 
+Grade = 4 
+_______________________________
+
+Stimulus = U sutra ne samo svatko jedan može gledati. 
+Duration = 6980.399999976158 
+id = 45 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Sanjam dvorac iz kojeg se čuje glasan plač daleko.. 
+Duration = 9150.999999988126 
+id = 26 
+Island Type = ai 
+Grade = 5 
+_______________________________
+
+Stimulus = Čega si gledao prepričavanje? 
+Duration = 2912.199999988079 
+id = 31 
+Island Type = di 
+Grade = 5 
+_______________________________
+
+Stimulus = Komu tužno je gledati da ljudi i dalje daju novac?? 
+Duration = 9849.399999988033 
+id = 19 
+Island Type = si 
+Grade = 4 
+_______________________________
+
+Stimulus = Što si saznao tužnu vijest da je Petar izgubio u podzemnoj?? 
+Duration = 7519.599999988102 
+id = 9 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Vjerojatno je tu lijepa nekad bila crkva. 
+Duration = 8984.599999988102 
+id = 36 
+Island Type = lbc 
+Grade = 3 
+_______________________________
+
+Stimulus = Lijepe su samo crne čizme bile u ovom ormaru. 
+Duration = 8603.499999976135 
+id = 34 
+Island Type = di 
+Grade = 3 
+_______________________________
+
+Stimulus = Što bismo voljeli da Drago napravi bez prigovora?? 
+Duration = 9059.900000011898 
+id = 16 
+Island Type = si 
+Grade = 7 
+_______________________________
+
+Stimulus = Tko je ovo bio jasan slučaj da je zapravo pohlepna osoba?? 
+Duration = 4733.1000000119675 
+id = 8 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Što žele da Ivan pripremi, a Nikola da posprema kuću?? 
+Duration = 8175.1000000119675 
+id = 3 
+Island Type = csi 
+Grade = 5 
+_______________________________
+
+Stimulus = Koliko čega Luka je zaboravio, on mi je posudio? 
+Duration = 6220.400000011898 
+id = 28 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko strah me i zamisliti s kakvim će se ogorčenjem vratiti kući?? 
+Duration = 3962.4000000118976 
+id = 29 
+Island Type = ai 
+Grade = 2 
+_______________________________
+
+Stimulus = Za koliko novca nevjerojatno je da je Goran prodao svoj stan?? 
+Duration = 9442.400000011898 
+id = 18 
+Island Type = si 
+Grade = 3 
+_______________________________
+
+Stimulus = Čije sam cvijeće izašao iz kuće i zaboravio zaliti? 
+Duration = 6377.500000011874 
+id = 4 
+Island Type = csi 
+Grade = 2 
+_______________________________
+
+Stimulus = Oni su se svađali navečer, ali ujutro su sve pritužbe već bile zaboravljene.. 
+Duration = 8842.900000011898 
+id = 48 
+Island Type = gf 
+Grade = 6 
+_______________________________
+
+Stimulus = Kakav sam vidio barku o oceanu? 
+Duration = 2493.5999999761116 
+id = 41 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Kamo je djevojka razmišljala o slobode, idući? 
+Duration = 11000.099999999977 
+id = 23 
+Island Type = ai 
+Grade = -1 
+_______________________________
+
+Stimulus = Što je Inna tri sata pročitala? 
+Duration = 9381.900000012014 
+id = 39 
+Island Type = nf 
+Grade = 2 
+_______________________________
+
+Stimulus = Kakva čovjeka svatko tko poznaje može potvrditi njgeov integritet?? 
+Duration = 10153.600000011967 
+id = 12 
+Island Type = si 
+Grade = 2 
+_______________________________
+
+Stimulus = Petar i Mara su jučer otišli u kino pogledati dobru komediju.. 
+Duration = 6563.100000023842 
+id = 46 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Tko se zaljubio u djevojku kad je bio dijete? 
+Duration = 8406.899999976158 
+id = 52 
+Island Type = gf 
+Grade = 6 
+_______________________________
+
+Stimulus = Što mama hvali kćer koja je u školi dobila? 
+Duration = 5418.699999999953 
+id = 11 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Vidimo plažu od koje smo bili daleko. 
+Duration = 7968.696000023745 
+id = 25 
+Island Type = ai 
+Grade = 7 
+_______________________________
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Participant № 8  | Age =  57  | Knowlegde -  mother-tongue  | Education -  phd  | Seriousness =  238  | Temper =  2.3773584905660377  | Power =  53  | ID =  Dpgv3oGnIS
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Stimulus = Odakle si pješke ići prema Zadru? 
+Duration = 5202.940000000002 
+id = 44 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko je jučer susjedu ukrao kobasicu? 
+Duration = 5236.579999999987 
+id = 50 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Što želiš da pronaći nije bilo teško? 
+Duration = 5286.540000000008 
+id = 14 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Oni su se svađali navečer, ali ujutro su sve pritužbe već bile zaboravljene.. 
+Duration = 5880.720000000001 
+id = 48 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Što je Inna tri sata pročitala? 
+Duration = 3739.420000000013 
+id = 39 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Za koliko novca nevjerojatno je da je Goran prodao svoj stan?? 
+Duration = 7735.540000000008 
+id = 18 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Kamo je djevojka razmišljala o slobode, idući? 
+Duration = 3430.179999999993 
+id = 23 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Kolike su trenutno plaće u hrvatskom sportu? 
+Duration = 3847.5 
+id = 35 
+Island Type = lbc 
+Grade = 7 
+_______________________________
+
+Stimulus = Čega je vidio muzej i obalu? 
+Duration = 3678.5199999999895 
+id = 1 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Kamo da ne odeš gladan, doručkovao si? 
+Duration = 3284.4799999999814 
+id = 21 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Stare su samo Čehovljeve priče bile u ovoj knjižnici.. 
+Duration = 4689.580000000016 
+id = 33 
+Island Type = di 
+Grade = 1 
+_______________________________
+
+Stimulus = Čega si gledao prepričavanje? 
+Duration = 2346.7399999999907 
+id = 31 
+Island Type = di 
+Grade = 1 
+_______________________________
+
+Stimulus = U sutra ne samo svatko jedan može gledati. 
+Duration = 3253.0200000000186 
+id = 45 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Za kim su banditi imali pitanja? 
+Duration = 2060.640000000014 
+id = 40 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Vidimo plažu od koje smo bili daleko. 
+Duration = 3428.5200000000186 
+id = 25 
+Island Type = ai 
+Grade = 7 
+_______________________________
+
+Stimulus = Kakav sam vidio barku u oceanu? 
+Duration = 2540.140000000014 
+id = 41 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Čega je riješio taj misterij? 
+Duration = 5116.280000000028 
+id = 32 
+Island Type = di 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko strah me i zamisliti s kakvim će se ogorčenjem vratiti kući?? 
+Duration = 2557.539999999979 
+id = 29 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = O čemu je Ivo cijelu večer pričao? 
+Duration = 2757.780000000028 
+id = 47 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Od čega je djed otišao u sanatorij odmarati? 
+Duration = 2414.1599999999744 
+id = 30 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Jedna vrlo duboka tamo postoji pećina. 
+Duration = 2777.780000000028 
+id = 37 
+Island Type = lbc 
+Grade = 1 
+_______________________________
+
+Stimulus = Koliko čega Luka je zaboravio, on mi je posudio? 
+Duration = 2921.359999999986 
+id = 28 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Kakve izgrađene u viktorijansko doba te zgrade su izgrađene?? 
+Duration = 2154.0 
+id = 43 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko je ovo bio jasan slučaj da je zapravo pohlepna osoba?? 
+Duration = 3960.219999999972 
+id = 8 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Koliko vidim dječaka kojem je ljubazni poštar poklonio bicikla?? 
+Duration = 2753.1599999999744 
+id = 10 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Čije sam cvijeće izašao iz kuće i zaboravio zaliti? 
+Duration = 4342.919999999984 
+id = 4 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Što je kupio i majicu? 
+Duration = 2317.7999999999884 
+id = 0 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko ono da je prodao svoj stan za toliki novac nevjerojatno je?? 
+Duration = 2586.8400000000256 
+id = 17 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Što bismo voljeli da Drago napravi bez prigovora?? 
+Duration = 2497.859999999986 
+id = 16 
+Island Type = si 
+Grade = 7 
+_______________________________
+
+Stimulus = Što si saznao tužnu vijest da je Petar izgubio u podzemnoj?? 
+Duration = 3039.4799999999814 
+id = 9 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Kakva je kraj mene biciklom prošla djevojka? 
+Duration = 3874.280000000028 
+id = 27 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Kad je Lena pronašla honorarni posao? 
+Duration = 2468.280000000028 
+id = 51 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Nešto se mu otac za punoljetnost poklonio. 
+Duration = 2698.8800000000047 
+id = 42 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Sanjam dvorac iz kojeg se čuje glasan plač daleko.. 
+Duration = 3556.8800000000047 
+id = 26 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko se nadaš da će napraviti prezentaciju, a Đure nacrtati sliku?? 
+Duration = 10441.700000000012 
+id = 2 
+Island Type = csi 
+Grade = 4 
+_______________________________
+
+Stimulus = Tko se zaljubio u djevojku kad je bio dijete? 
+Duration = 9627.440000000002 
+id = 52 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Što žele da Ivan pripremi, a Nikola da posprema kuću?? 
+Duration = 6375.299999999988 
+id = 3 
+Island Type = csi 
+Grade = 2 
+_______________________________
+
+Stimulus = Što mama hvali kćer koja je u školi dobila? 
+Duration = 1995.8400000000256 
+id = 11 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Lijepe su samo crne čizme bile u ovom ormaru. 
+Duration = 3742.7999999999884 
+id = 34 
+Island Type = di 
+Grade = 1 
+_______________________________
+
+Stimulus = Vidimo plažu daleko od koje smo bili. 
+Duration = 2188.3800000000047 
+id = 24 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Komu tužno je gledati da ljudi i dalje daju novac?? 
+Duration = 2186.319999999949 
+id = 19 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Što ćemo uništit i saditi vrtove? 
+Duration = 3353.1999999999534 
+id = 5 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = To su oni siromasi, koje je htio nahraniti i moliti se bogu.. 
+Duration = 8938.199999999953 
+id = 6 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Što Miloš je opljačkao banku da kupi? 
+Duration = 2740.0200000000186 
+id = 20 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Što je kupio tata, i spremila je majka? 
+Duration = 5864.579999999958 
+id = 7 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Večeras je Anna nalakirala nokte. 
+Duration = 3577.8399999999674 
+id = 49 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Petar i Mara su jučer otišli u kino pogledati dobru komediju.. 
+Duration = 4046.219999999972 
+id = 46 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Ove godine su se Viktor i Marta vjenčao. 
+Duration = 3185.1999999999534 
+id = 38 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Kakva čovjeka svatko tko poznaje može potvrditi njegov integritet?? 
+Duration = 2914.5 
+id = 12 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Vjerojatno je tu lijepa nekad bila crkva. 
+Duration = 5140.339999999967 
+id = 36 
+Island Type = lbc 
+Grade = 1 
+_______________________________
+
+Stimulus = Prije čega dobro je da smo stigli? 
+Duration = 10274.800000000047 
+id = 15 
+Island Type = si 
+Grade = 4 
+_______________________________
+
+Stimulus = Što je on plakao, čitajući? 
+Duration = 2281.8800000000047 
+id = 22 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Na što je teško prestati besmisleno bacati novac? 
+Duration = 3549.5999999999767 
+id = 13 
+Island Type = si 
+Grade = 7 
+_______________________________
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Participant № 9  | Age =  18  | Knowlegde -  mother-tongue  | Education -  highschool  | Seriousness =  183  | Temper =  3.875  | Power =  48  | ID =  fuDh-MbTW2
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Stimulus = Jedna vrlo duboka tamo postoji pećina. 
+Duration = 7389.399999964226 
+id = 37 
+Island Type = lbc 
+Grade = 2 
+_______________________________
+
+Stimulus = Večeras je Anna nalakirala nokte. 
+Duration = 2874.3999999880907 
+id = 49 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Vjerojatno je tu lijepa nekad bila crkva. 
+Duration = 3867.099999964237 
+id = 36 
+Island Type = lbc 
+Grade = 4 
+_______________________________
+
+Stimulus = Što mama hvali kćer koja je u školi dobila? 
+Duration = 3967.200000011915 
+id = 11 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Odakle si pješke ići prema Zadru? 
+Duration = 2273.399999999994 
+id = 44 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Kamo je djevojka razmišljala o slobode, idući? 
+Duration = 10315.499999964231 
+id = 23 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Kakva je kraj mene biciklom prošla djevojka? 
+Duration = 3802.299999964249 
+id = 27 
+Island Type = ai 
+Grade = 7 
+_______________________________
+
+Stimulus = U sutra ne samo svatko jedan može gledati. 
+Duration = 5151.200000000012 
+id = 45 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = To su oni siromasi, koje je htio nahraniti i moliti se bogu.. 
+Duration = 7954.499999976164 
+id = 6 
+Island Type = csi 
+Grade = 6 
+_______________________________
+
+Stimulus = Što je Inna tri sata pročitala? 
+Duration = 3124.0999999881024 
+id = 39 
+Island Type = nf 
+Grade = 2 
+_______________________________
+
+Stimulus = Čega je vidio muzej i obalu? 
+Duration = 2039.5000000119326 
+id = 1 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Prije čega dobro je da smo stigli? 
+Duration = 2406.8999999880907 
+id = 15 
+Island Type = si 
+Grade = 4 
+_______________________________
+
+Stimulus = Što ćemo uništit i saditi vrtove? 
+Duration = 4284.199999988079 
+id = 5 
+Island Type = csi 
+Grade = 5 
+_______________________________
+
+Stimulus = Što je on plakao, čitajući? 
+Duration = 3216.399999976158 
+id = 22 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Vidimo plažu daleko od koje smo bili. 
+Duration = 4083.599999964237 
+id = 24 
+Island Type = ai 
+Grade = 7 
+_______________________________
+
+Stimulus = Kolike su trenutno plaće u hrvatskom sportu? 
+Duration = 2097.4000000118976 
+id = 35 
+Island Type = lbc 
+Grade = 7 
+_______________________________
+
+Stimulus = Što žele da Ivan pripremi, a Nikola da posprema kuću?? 
+Duration = 3257.0999999999767 
+id = 3 
+Island Type = csi 
+Grade = 3 
+_______________________________
+
+Stimulus = Čega si gledao prepričavanje? 
+Duration = 2248.1000000119093 
+id = 31 
+Island Type = di 
+Grade = 7 
+_______________________________
+
+Stimulus = O čemu je Ivo cijelu večer pričao? 
+Duration = 2198.5999999881024 
+id = 47 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Za kim su banditi imali pitanja? 
+Duration = 5226.199999964214 
+id = 40 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Za koliko novca nevjerojatno je da je Goran prodao svoj stan?? 
+Duration = 6477.9999999642605 
+id = 18 
+Island Type = si 
+Grade = 3 
+_______________________________
+
+Stimulus = Od čega je djed otišao u sanatorij odmarati? 
+Duration = 5226.699999988079 
+id = 30 
+Island Type = ai 
+Grade = 7 
+_______________________________
+
+Stimulus = Što si saznao tužnu vijest da je Petar izgubio u podzemnoj?? 
+Duration = 2123.2000000000116 
+id = 9 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko je ovo bio jasan slučaj da je zapravo pohlepna osoba?? 
+Duration = 2749.4999999880674 
+id = 8 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Komu tužno je gledati da ljudi i dalje daju novac?? 
+Duration = 6035.899999964226 
+id = 19 
+Island Type = si 
+Grade = 5 
+_______________________________
+
+Stimulus = Tko ono da je prodao svoj stan za toliki novac nevjerojatno je?? 
+Duration = 3516.800000011921 
+id = 17 
+Island Type = si 
+Grade = 3 
+_______________________________
+
+Stimulus = Kakva čovjeka svatko tko poznaje može potvrditi njegov integritet?? 
+Duration = 7095.399999964226 
+id = 12 
+Island Type = si 
+Grade = 2 
+_______________________________
+
+Stimulus = Tko se zaljubio u djevojku kad je bio dijete? 
+Duration = 6152.299999964249 
+id = 52 
+Island Type = gf 
+Grade = 4 
+_______________________________
+
+Stimulus = Čega je riješio taj misterij? 
+Duration = 5652.000000011933 
+id = 32 
+Island Type = di 
+Grade = 6 
+_______________________________
+
+Stimulus = Tko je jučer susjedu ukrao kobasicu? 
+Duration = 2114.9000000118976 
+id = 50 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Na što je teško prestati besmisleno bacati novac? 
+Duration = 3591.499999976135 
+id = 13 
+Island Type = si 
+Grade = 7 
+_______________________________
+
+Stimulus = Koliko čega Luka je zaboravio, on mi je posudio? 
+Duration = 3090.59999997617 
+id = 28 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Što želiš da pronaći nije bilo teško? 
+Duration = 2206.2999999999884 
+id = 14 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Nešto se mu otac za punoljetnost poklonio. 
+Duration = 3524.799999988056 
+id = 42 
+Island Type = nf 
+Grade = 2 
+_______________________________
+
+Stimulus = Kakav sam vidio barku u oceanu? 
+Duration = 3709.2000000000116 
+id = 41 
+Island Type = nf 
+Grade = 4 
+_______________________________
+
+Stimulus = Ove godine su se Viktor i Marta vjenčao. 
+Duration = 2756.199999988079 
+id = 38 
+Island Type = nf 
+Grade = 2 
+_______________________________
+
+Stimulus = Petar i Mara su jučer otišli u kino pogledati dobru komediju.. 
+Duration = 3774.499999976135 
+id = 46 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Što bismo voljeli da Drago napravi bez prigovora?? 
+Duration = 2272.5999999761116 
+id = 16 
+Island Type = si 
+Grade = 7 
+_______________________________
+
+Stimulus = Tko se nadaš da će napraviti prezentaciju, a Đure nacrtati sliku?? 
+Duration = 3015.4000000118976 
+id = 2 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Koliko vidim dječaka kojem je ljubazni poštar poklonio bicikla?? 
+Duration = 5785.599999976112 
+id = 10 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Kakve izgrađene u viktorijansko doba te zgrade su izgrađene?? 
+Duration = 4433.799999964191 
+id = 43 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Što je kupio tata, i spremila je majka? 
+Duration = 4634.299999976181 
+id = 7 
+Island Type = csi 
+Grade = 4 
+_______________________________
+
+Stimulus = Kamo da ne odeš gladan, doručkovao si? 
+Duration = 6703.799999964191 
+id = 21 
+Island Type = ai 
+Grade = 2 
+_______________________________
+
+Stimulus = Čije sam cvijeće izašao iz kuće i zaboravio zaliti? 
+Duration = 3182.4000000000233 
+id = 4 
+Island Type = csi 
+Grade = 7 
+_______________________________
+
+Stimulus = Stare su samo Čehovljeve priče bile u ovoj knjižnici.. 
+Duration = 2564.7999999761814 
+id = 33 
+Island Type = di 
+Grade = 6 
+_______________________________
+
+Stimulus = Sanjam dvorac iz kojeg se čuje glasan plač daleko.. 
+Duration = 3816.299999988056 
+id = 26 
+Island Type = ai 
+Grade = 5 
+_______________________________
+
+Stimulus = Kad je Lena pronašla honorarni posao? 
+Duration = 2206.4999999642605 
+id = 51 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Lijepe su samo crne čizme bile u ovom ormaru. 
+Duration = 3015.599999964237 
+id = 34 
+Island Type = di 
+Grade = 7 
+_______________________________
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Participant № 10  | Age =  53  | Knowlegde -  mother-tongue  | Education -  master  | Seriousness =  138  | Temper =  4.315789473684211  | Power =  38  | ID =  iw2l9YzZCx
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Stimulus = Kakva je kraj mene biciklom prošla djevojka? 
+Duration = 8554.803999976168 
+id = 27 
+Island Type = ai 
+Grade = 2 
+_______________________________
+
+Stimulus = Ove godine su se Viktor i Marta vjenčao. 
+Duration = 3669.4039999821107 
+id = 38 
+Island Type = nf 
+Grade = 5 
+_______________________________
+
+Stimulus = Na što je teško prestati besmisleno bacati novac? 
+Duration = 1092.0719999821158 
+id = 13 
+Island Type = si 
+Grade = 6 
+_______________________________
+
+Stimulus = Petar i Mara su jučer otišli u kino pogledati dobru komediju.. 
+Duration = 3038.103999994026 
+id = 46 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Što želiš da pronaći nije bilo teško? 
+Duration = 5359.6999999761465 
+id = 14 
+Island Type = si 
+Grade = 3 
+_______________________________
+
+Stimulus = Što bismo voljeli da Drago napravi bez prigovora?? 
+Duration = 3079.8679999761516 
+id = 16 
+Island Type = si 
+Grade = 7 
+_______________________________
+
+Stimulus = Što je kupio i majicu? 
+Duration = 8122.899999988091 
+id = 0 
+Island Type = csi 
+Grade = 3 
+_______________________________
+
+Stimulus = U sutra ne samo svatko jedan može gledati. 
+Duration = 6028.900000000023 
+id = 45 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Odakle si pješke ići prema Zadru? 
+Duration = 7653.199999994016 
+id = 44 
+Island Type = nf 
+Grade = 3 
+_______________________________
+
+Stimulus = Kolike su trenutno plaće u hrvatskom sportu? 
+Duration = 3610.499999976135 
+id = 35 
+Island Type = lbc 
+Grade = 7 
+_______________________________
+
+Stimulus = Što je kupio tata, i spremila je majka? 
+Duration = 7981.899999982095 
+id = 7 
+Island Type = csi 
+Grade = 3 
+_______________________________
+
+Stimulus = Koliko čega Luka je zaboravio, on mi je posudio? 
+Duration = 4314.099999999977 
+id = 28 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Što si saznao tužnu vijest da je Petar izgubio u podzemnoj?? 
+Duration = 4688.668000000005 
+id = 9 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko ono da je prodao svoj stan za toliki novac nevjerojatno je?? 
+Duration = 4549.399999988091 
+id = 17 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Što žele da Ivan pripremi, a Nikola da posprema kuću?? 
+Duration = 5567.899999994028 
+id = 3 
+Island Type = csi 
+Grade = 2 
+_______________________________
+
+Stimulus = Čega je riješio taj misterij? 
+Duration = 5032.59999997617 
+id = 32 
+Island Type = di 
+Grade = 1 
+_______________________________
+
+Stimulus = Što je Inna tri sata pročitala? 
+Duration = 5871.399999982095 
+id = 39 
+Island Type = nf 
+Grade = 5 
+_______________________________
+
+Stimulus = Za kim su banditi imali pitanja? 
+Duration = 3005.1679999821354 
+id = 40 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Koliko vidim dječaka kojem je ljubazni poštar poklonio bicikla?? 
+Duration = 8203.569999982137 
+id = 10 
+Island Type = cnp 
+Grade = 2 
+_______________________________
+
+Stimulus = Tko se zaljubio u djevojku kad je bio dijete? 
+Duration = 4003.2000000000116 
+id = 52 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Što Miloš je opljačkao banku da kupi? 
+Duration = 4821.1020000000135 
+id = 20 
+Island Type = ai 
+Grade = 2 
+_______________________________
+
+Stimulus = Večeras je Anna nalakirala nokte. 
+Duration = 1690.9699999761651 
+id = 49 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Vjerojatno je tu lijepa nekad bila crkva. 
+Duration = 5866.099999982107 
+id = 36 
+Island Type = lbc 
+Grade = 6 
+_______________________________
+
+Stimulus = Stare su samo Čehovljeve priče bile u ovoj knjižnici.. 
+Duration = 5309.837999999989 
+id = 33 
+Island Type = di 
+Grade = 6 
+_______________________________
+
+Stimulus = Čega si gledao prepričavanje? 
+Duration = 3492.969999976165 
+id = 31 
+Island Type = di 
+Grade = 6 
+_______________________________
+
+Stimulus = Što je on plakao, čitajući? 
+Duration = 6085.200000000012 
+id = 22 
+Island Type = ai 
+Grade = 2 
+_______________________________
+
+Stimulus = Oni su se svađali navečer, ali ujutro su sve pritužbe već bile zaboravljene.. 
+Duration = 4799.799999976181 
+id = 48 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Sanjam dvorac iz kojeg se čuje glasan plač daleko.. 
+Duration = 3491.9000000000233 
+id = 26 
+Island Type = ai 
+Grade = 6 
+_______________________________
+
+Stimulus = Kakva čovjeka svatko tko poznaje može potvrditi njegov integritet?? 
+Duration = 4417.699999994016 
+id = 12 
+Island Type = si 
+Grade = 3 
+_______________________________
+
+Stimulus = Kamo da ne odeš gladan, doručkovao si? 
+Duration = 4823.899999994086 
+id = 21 
+Island Type = ai 
+Grade = 5 
+_______________________________
+
+Stimulus = Što ćemo uništit i saditi vrtove? 
+Duration = 4086.6999999999534 
+id = 5 
+Island Type = csi 
+Grade = 5 
+_______________________________
+
+Stimulus = Tko je jučer susjedu ukrao kobasicu? 
+Duration = 2016.5999999881024 
+id = 50 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Jedna vrlo duboka tamo postoji pećina. 
+Duration = 5768.599999999977 
+id = 37 
+Island Type = lbc 
+Grade = 6 
+_______________________________
+
+Stimulus = Vidimo plažu od koje smo bili daleko. 
+Duration = 2459.8999999820953 
+id = 25 
+Island Type = ai 
+Grade = 5 
+_______________________________
+
+Stimulus = Nešto se mu otac za punoljetnost poklonio. 
+Duration = 7559.199999988079 
+id = 42 
+Island Type = nf 
+Grade = 4 
+_______________________________
+
+Stimulus = O čemu je Ivo cijelu večer pričao? 
+Duration = 2220.999999976135 
+id = 47 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Kamo je djevojka razmišljala o slobode, idući? 
+Duration = 6568.599999988102 
+id = 23 
+Island Type = ai 
+Grade = 5 
+_______________________________
+
+Stimulus = Lijepe su samo crne čizme bile u ovom ormaru. 
+Duration = 7471.800000000047 
+id = 34 
+Island Type = di 
+Grade = 7 
+_______________________________
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Participant № 11  | Age =  25  | Knowlegde -  mother-tongue  | Education -  highschool  | Seriousness =  138  | Temper =  2.8867924528301887  | Power =  53  | ID =  JzUOBPldlg
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Stimulus = Kad je Lena pronašla honorarni posao? 
+Duration = 3130.199999999997 
+id = 51 
+Island Type = gf 
+Grade = 2 
+_______________________________
+
+Stimulus = Ove godine su se Viktor i Marta vjenčao. 
+Duration = 4039.2000000000116 
+id = 38 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Vidimo plažu daleko od koje smo bili. 
+Duration = 5701.20000007152 
+id = 24 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko se nadaš da će napraviti prezentaciju, a Đure nacrtati sliku?? 
+Duration = 4698.600000023842 
+id = 2 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko je jučer susjedu ukrao kobasicu? 
+Duration = 4017.000000023836 
+id = 50 
+Island Type = gf 
+Grade = 6 
+_______________________________
+
+Stimulus = To su oni siromasi, koje je htio nahraniti i moliti se bogu.. 
+Duration = 3507.500000047672 
+id = 6 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Komu tužno je gledati da ljudi i dalje daju novac?? 
+Duration = 1743.1999999761465 
+id = 19 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Što je kupio tata, i spremila je majka? 
+Duration = 3287.600000047678 
+id = 7 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Za kim su banditi imali pitanja? 
+Duration = 3299.7999999761523 
+id = 40 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Sanjam dvorac iz kojeg se čuje glasan plač daleko.. 
+Duration = 3701.9000000715314 
+id = 26 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko ono da je prodao svoj stan za toliki novac nevjerojatno je?? 
+Duration = 4239.100000000006 
+id = 17 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Oni su se svađali navečer, ali ujutro su sve pritužbe već bile zaboravljene.. 
+Duration = 5567.600000023842 
+id = 48 
+Island Type = gf 
+Grade = 6 
+_______________________________
+
+Stimulus = Što ćemo uništit i saditi vrtove? 
+Duration = 1952.0 
+id = 5 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Petar i Mara su jučer otišli u kino pogledati dobru komediju.. 
+Duration = 4422.900000047695 
+id = 46 
+Island Type = gf 
+Grade = 5 
+_______________________________
+
+Stimulus = Tko je ovo bio jasan slučaj da je zapravo pohlepna osoba?? 
+Duration = 1924.6999999761465 
+id = 8 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Što je Inna tri sata pročitala? 
+Duration = 2999.8000000238535 
+id = 39 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Od čega je djed otišao u sanatorij odmarati? 
+Duration = 3100.59999997617 
+id = 30 
+Island Type = ai 
+Grade = 7 
+_______________________________
+
+Stimulus = Što bismo voljeli da Drago napravi bez prigovora?? 
+Duration = 2615.600000023842 
+id = 16 
+Island Type = si 
+Grade = 6 
+_______________________________
+
+Stimulus = U sutra ne samo svatko jedan može gledati. 
+Duration = 3083.8000000238535 
+id = 45 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Što Miloš je opljačkao banku da kupi? 
+Duration = 4396.500000023865 
+id = 20 
+Island Type = ai 
+Grade = 4 
+_______________________________
+
+Stimulus = Što želiš da pronaći nije bilo teško? 
+Duration = 2242.600000023842 
+id = 14 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Odakle si pješke ići prema Zadru? 
+Duration = 2501.40000002383 
+id = 44 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Prije čega dobro je da smo stigli? 
+Duration = 3477.100000047707 
+id = 15 
+Island Type = si 
+Grade = 5 
+_______________________________
+
+Stimulus = Nešto se mu otac za punoljetnost poklonio. 
+Duration = 9972.000000023865 
+id = 42 
+Island Type = nf 
+Grade = 4 
+_______________________________
+
+Stimulus = Za koliko novca nevjerojatno je da je Goran prodao svoj stan?? 
+Duration = 3364.600000023842 
+id = 18 
+Island Type = si 
+Grade = 3 
+_______________________________
+
+Stimulus = Tko se zaljubio u djevojku kad je bio dijete? 
+Duration = 4076.9000000715023 
+id = 52 
+Island Type = gf 
+Grade = 5 
+_______________________________
+
+Stimulus = Kakav sam vidio barku u oceanu? 
+Duration = 3667.9000000715023 
+id = 41 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Što si saznao tužnu vijest da je Petar izgubio u podzemnoj?? 
+Duration = 3637.9000000000233 
+id = 9 
+Island Type = cnp 
+Grade = 3 
+_______________________________
+
+Stimulus = Kamo da ne odeš gladan, doručkovao si? 
+Duration = 3578.9000000715023 
+id = 21 
+Island Type = ai 
+Grade = 4 
+_______________________________
+
+Stimulus = Lijepe su samo crne čizme bile u ovom ormaru. 
+Duration = 3362.90000002383 
+id = 34 
+Island Type = di 
+Grade = 4 
+_______________________________
+
+Stimulus = Kakva je kraj mene biciklom prošla djevojka? 
+Duration = 2721.000000071537 
+id = 27 
+Island Type = ai 
+Grade = 4 
+_______________________________
+
+Stimulus = Što je kupio i majicu? 
+Duration = 2437.8000000715256 
+id = 0 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Koliko čega Luka je zaboravio, on mi je posudio? 
+Duration = 3798.500000047672 
+id = 28 
+Island Type = ai 
+Grade = 3 
+_______________________________
+
+Stimulus = Što je on plakao, čitajući? 
+Duration = 6377.3000000238535 
+id = 22 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Kakva čovjeka svatko tko poznaje može potvrditi njegov integritet?? 
+Duration = 3725.3000000238535 
+id = 12 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Što mama hvali kćer koja je u školi dobila? 
+Duration = 3371.09999997617 
+id = 11 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = O čemu je Ivo cijelu večer pričao? 
+Duration = 3148.7000000476837 
+id = 47 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Kolike su trenutno plaće u hrvatskom sportu? 
+Duration = 3609.3000000715256 
+id = 35 
+Island Type = lbc 
+Grade = 7 
+_______________________________
+
+Stimulus = Kamo je djevojka razmišljala o slobode, idući? 
+Duration = 3970.8000000476604 
+id = 23 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Što žele da Ivan pripremi, a Nikola da posprema kuću?? 
+Duration = 3011.000000023865 
+id = 3 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Čije sam cvijeće izašao iz kuće i zaboravio zaliti? 
+Duration = 3497.500000047672 
+id = 4 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Večeras je Anna nalakirala nokte. 
+Duration = 9989.200000047684 
+id = 49 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Vidimo plažu od koje smo bili daleko. 
+Duration = 3064.7999999761814 
+id = 25 
+Island Type = ai 
+Grade = 4 
+_______________________________
+
+Stimulus = Stare su samo Čehovljeve priče bile u ovoj knjižnici.. 
+Duration = 1712.9000000000233 
+id = 33 
+Island Type = di 
+Grade = 4 
+_______________________________
+
+Stimulus = Kakve izgrađene u viktorijansko doba te zgrade su izgrađene?? 
+Duration = 1672.4000000000233 
+id = 43 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Na što je teško prestati besmisleno bacati novac? 
+Duration = 4961.199999999953 
+id = 13 
+Island Type = si 
+Grade = 6 
+_______________________________
+
+Stimulus = Čega je riješio taj misterij? 
+Duration = 5410.300000000047 
+id = 32 
+Island Type = di 
+Grade = 2 
+_______________________________
+
+Stimulus = Jedna vrlo duboka tamo postoji pećina. 
+Duration = 4287.699999999953 
+id = 37 
+Island Type = lbc 
+Grade = 4 
+_______________________________
+
+Stimulus = Čega je vidio muzej i obalu? 
+Duration = 2617.500000023865 
+id = 1 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Vjerojatno je tu lijepa nekad bila crkva. 
+Duration = 4900.50000004773 
+id = 36 
+Island Type = lbc 
+Grade = 5 
+_______________________________
+
+Stimulus = Čega si gledao prepričavanje? 
+Duration = 2066.100000047707 
+id = 31 
+Island Type = di 
+Grade = 7 
+_______________________________
+
+Stimulus = Tko strah me i zamisliti s kakvim će se ogorčenjem vratiti kući?? 
+Duration = 1906.8000000237953 
+id = 29 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Koliko vidim dječaka kojem je ljubazni poštar poklonio bicikla?? 
+Duration = 4267.600000047707 
+id = 10 
+Island Type = cnp 
+Grade = 3 
+_______________________________
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Participant № 12  | Age =  23  | Knowlegde -  mother-tongue  | Education -  bachelor  | Seriousness =  73  | Temper =  2.3846153846153846  | Power =  13  | ID =  l-OWYBtB7v
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Stimulus = Što ćemo uništit i saditi vrtove? 
+Duration = 8504.279999999999 
+id = 5 
+Island Type = csi 
+Grade = 3 
+_______________________________
+
+Stimulus = Kamo je djevojka razmišljala o slobode, idući? 
+Duration = 5189.079999999987 
+id = 23 
+Island Type = ai 
+Grade = 2 
+_______________________________
+
+Stimulus = Tko ono da je prodao svoj stan za toliki novac nevjerojatno je?? 
+Duration = 7947.719999999972 
+id = 17 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko strah me i zamisliti s kakvim će se ogorčenjem vratiti kući?? 
+Duration = 9420.640000000014 
+id = 29 
+Island Type = ai 
+Grade = 2 
+_______________________________
+
+Stimulus = To su oni siromasi, koje je htio nahraniti i moliti se bogu.. 
+Duration = 11244.76000000001 
+id = 6 
+Island Type = csi 
+Grade = -1 
+_______________________________
+
+Stimulus = Što je kupio tata, i spremila je majka? 
+Duration = 5608.700000000012 
+id = 7 
+Island Type = csi 
+Grade = 4 
+_______________________________
+
+Stimulus = Koliko čega Luka je zaboravio, on mi je posudio? 
+Duration = 6133.979999999981 
+id = 28 
+Island Type = ai 
+Grade = 3 
+_______________________________
+
+Stimulus = Čije sam cvijeće izašao iz kuće i zaboravio zaliti? 
+Duration = 9266.719999999972 
+id = 4 
+Island Type = csi 
+Grade = 3 
+_______________________________
+
+Stimulus = Kakva je kraj mene biciklom prošla djevojka? 
+Duration = 6469.280000000028 
+id = 27 
+Island Type = ai 
+Grade = 5 
+_______________________________
+
+Stimulus = Što želiš da pronaći nije bilo teško? 
+Duration = 5640.359999999986 
+id = 14 
+Island Type = si 
+Grade = 3 
+_______________________________
+
+Stimulus = Od čega je djed otišao u sanatorij odmarati? 
+Duration = 5538.239999999991 
+id = 30 
+Island Type = ai 
+Grade = 5 
+_______________________________
+
+Stimulus = Što je on plakao, čitajući? 
+Duration = 10002.359999999986 
+id = 22 
+Island Type = ai 
+Grade = 2 
+_______________________________
+
+Stimulus = Što je Inna tri sata pročitala? 
+Duration = 25999.70000000001 
+id = 39 
+Island Type = nf 
+Grade = -1 
+_______________________________
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Participant № 13  | Age =  27  | Knowlegde -  mother-tongue  | Education -  master  | Seriousness =  223  | Temper =  2.943396226415094  | Power =  53  | ID =  o0Bxo-wFMk
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Stimulus = Tko ono da je prodao svoj stan za toliki novac nevjerojatno je?? 
+Duration = 2684.9999999523134 
+id = 17 
+Island Type = si 
+Grade = 3 
+_______________________________
+
+Stimulus = Oni su se svađali navečer, ali ujutro su sve pritužbe već bile zaboravljene.. 
+Duration = 1484.0000000476866 
+id = 48 
+Island Type = gf 
+Grade = 6 
+_______________________________
+
+Stimulus = Vidimo plažu od koje smo bili daleko. 
+Duration = 1476.9000000953674 
+id = 25 
+Island Type = ai 
+Grade = 4 
+_______________________________
+
+Stimulus = Koliko vidim dječaka kojem je ljubazni poštar poklonio bicikla?? 
+Duration = 4010.870000143055 
+id = 10 
+Island Type = cnp 
+Grade = 6 
+_______________________________
+
+Stimulus = Vjerojatno je tu lijepa nekad bila crkva. 
+Duration = 1051.0999999523192 
+id = 36 
+Island Type = lbc 
+Grade = 3 
+_______________________________
+
+Stimulus = Kolike su trenutno plaće u hrvatskom sportu? 
+Duration = 3258.699999999997 
+id = 35 
+Island Type = lbc 
+Grade = 7 
+_______________________________
+
+Stimulus = Ove godine su se Viktor i Marta vjenčao. 
+Duration = 2265.5 
+id = 38 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Od čega je djed otišao u sanatorij odmarati? 
+Duration = 3748.300000143063 
+id = 30 
+Island Type = ai 
+Grade = 7 
+_______________________________
+
+Stimulus = O čemu je Ivo cijelu večer pričao? 
+Duration = 1731.9040000476816 
+id = 47 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Večeras je Anna nalakirala nokte. 
+Duration = 2199.2000000476837 
+id = 49 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Čega je riješio taj misterij? 
+Duration = 2015.6000000000058 
+id = 32 
+Island Type = di 
+Grade = 1 
+_______________________________
+
+Stimulus = Što je on plakao, čitajući? 
+Duration = 798.2000000953558 
+id = 22 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Petar i Mara su jučer otišli u kino pogledati dobru komediju.. 
+Duration = 2257.0000001430453 
+id = 46 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Na što je teško prestati besmisleno bacati novac? 
+Duration = 2670.8000000476895 
+id = 13 
+Island Type = si 
+Grade = 7 
+_______________________________
+
+Stimulus = Komu tužno je gledati da ljudi i dalje daju novac?? 
+Duration = 5793.799999999988 
+id = 19 
+Island Type = si 
+Grade = 3 
+_______________________________
+
+Stimulus = Koliko čega Luka je zaboravio, on mi je posudio? 
+Duration = 3607.2000000000116 
+id = 28 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Čega si gledao prepričavanje? 
+Duration = 2604.2999999523163 
+id = 31 
+Island Type = di 
+Grade = 7 
+_______________________________
+
+Stimulus = Kakva čovjeka svatko tko poznaje može potvrditi njegov integritet?? 
+Duration = 2036.9000001430395 
+id = 12 
+Island Type = si 
+Grade = 4 
+_______________________________
+
+Stimulus = Što ćemo uništit i saditi vrtove? 
+Duration = 2862.9180001430504 
+id = 5 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Kamo je djevojka razmišljala o slobode, idući? 
+Duration = 1725.6000001430511 
+id = 23 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Stare su samo Čehovljeve priče bile u ovoj knjižnici.. 
+Duration = 2427.899999999994 
+id = 33 
+Island Type = di 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko je jučer susjedu ukrao kobasicu? 
+Duration = 1987.399999952322 
+id = 50 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Kakav sam vidio barku u oceanu? 
+Duration = 1824.0000001430453 
+id = 41 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Što žele da Ivan pripremi, a Nikola da posprema kuću?? 
+Duration = 2432.5999999523046 
+id = 3 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Kakve izgrađene u viktorijansko doba te zgrade su izgrađene?? 
+Duration = 2685.493999952305 
+id = 43 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Kad je Lena pronašla honorarni posao? 
+Duration = 1917.7000000476837 
+id = 51 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = U sutra ne samo svatko jedan može gledati. 
+Duration = 3007.8000000476895 
+id = 45 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Što mama hvali kćer koja je u školi dobila? 
+Duration = 1847.8000001430628 
+id = 11 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Što si saznao tužnu vijest da je Petar izgubio u podzemnoj?? 
+Duration = 1464.899999952293 
+id = 9 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Vidimo plažu daleko od koje smo bili. 
+Duration = 2865.600000143051 
+id = 24 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko se zaljubio u djevojku kad je bio dijete? 
+Duration = 2972.4000000000233 
+id = 52 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Što je kupio tata, i spremila je majka? 
+Duration = 1801.5999999523046 
+id = 7 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Za koliko novca nevjerojatno je da je Goran prodao svoj stan?? 
+Duration = 2466.0999999523046 
+id = 18 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Kamo da ne odeš gladan, doručkovao si? 
+Duration = 2360.9000001430395 
+id = 21 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Nešto se mu otac za punoljetnost poklonio. 
+Duration = 2485.9000001430395 
+id = 42 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Prije čega dobro je da smo stigli? 
+Duration = 2928.100000143051 
+id = 15 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Za kim su banditi imali pitanja? 
+Duration = 2309.2999999523163 
+id = 40 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = To su oni siromasi, koje je htio nahraniti i moliti se bogu.. 
+Duration = 2937.100000047707 
+id = 6 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Lijepe su samo crne čizme bile u ovom ormaru. 
+Duration = 1162.2999999999884 
+id = 34 
+Island Type = di 
+Grade = 1 
+_______________________________
+
+Stimulus = Odakle si pješke ići prema Zadru? 
+Duration = 2416.8000000953907 
+id = 44 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Kakva je kraj mene biciklom prošla djevojka? 
+Duration = 3882.200000095356 
+id = 27 
+Island Type = ai 
+Grade = 4 
+_______________________________
+
+Stimulus = Tko je ovo bio jasan slučaj da je zapravo pohlepna osoba?? 
+Duration = 1374.5000000953441 
+id = 8 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko se nadaš da će napraviti prezentaciju, a Đure nacrtati sliku?? 
+Duration = 1284.100000095379 
+id = 2 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Što bismo voljeli da Drago napravi bez prigovora?? 
+Duration = 3299.300000143063 
+id = 16 
+Island Type = si 
+Grade = 7 
+_______________________________
+
+Stimulus = Tko strah me i zamisliti s kakvim će se ogorčenjem vratiti kući?? 
+Duration = 1225.000000047672 
+id = 29 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Što je kupio i majicu? 
+Duration = 1176.7000001430279 
+id = 0 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Jedna vrlo duboka tamo postoji pećina. 
+Duration = 4504.700000143028 
+id = 37 
+Island Type = lbc 
+Grade = 5 
+_______________________________
+
+Stimulus = Čije sam cvijeće izašao iz kuće i zaboravio zaliti? 
+Duration = 2637.499999952328 
+id = 4 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Što Miloš je opljačkao banku da kupi? 
+Duration = 1929.499999952328 
+id = 20 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Sanjam dvorac iz kojeg se čuje glasan plač daleko.. 
+Duration = 3650.538000143075 
+id = 26 
+Island Type = ai 
+Grade = 7 
+_______________________________
+
+Stimulus = Što želiš da pronaći nije bilo teško? 
+Duration = 1542.4000000953674 
+id = 14 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Što je Inna tri sata pročitala? 
+Duration = 3010.499999952328 
+id = 39 
+Island Type = nf 
+Grade = 3 
+_______________________________
+
+Stimulus = Čega je vidio muzej i obalu? 
+Duration = 1886.7000000000116 
+id = 1 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Participant № 14  | Age =  27  | Knowlegde -  mother-tongue  | Education -  bachelor  | Seriousness =  213  | Temper =  2.5849056603773586  | Power =  53  | ID =  SWGPFYzQBA
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Stimulus = Večeras je Anna nalakirala nokte. 
+Duration = 2374.3600000000006 
+id = 49 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Kakve izgrađene u viktorijansko doba te zgrade su izgrađene?? 
+Duration = 3978.220000000001 
+id = 43 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Komu tužno je gledati da ljudi i dalje daju novac?? 
+Duration = 4723.100000000006 
+id = 19 
+Island Type = si 
+Grade = 4 
+_______________________________
+
+Stimulus = Kakav sam vidio barku u oceanu? 
+Duration = 7844.0 
+id = 41 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko je ovo bio jasan slučaj da je zapravo pohlepna osoba?? 
+Duration = 1885.979999999996 
+id = 8 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Što si saznao tužnu vijest da je Petar izgubio u podzemnoj?? 
+Duration = 4292.800000000003 
+id = 9 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Od čega je djed otišao u sanatorij odmarati? 
+Duration = 2382.3800000000047 
+id = 30 
+Island Type = ai 
+Grade = 7 
+_______________________________
+
+Stimulus = Što bismo voljeli da Drago napravi bez prigovora?? 
+Duration = 1724.2400000000052 
+id = 16 
+Island Type = si 
+Grade = 7 
+_______________________________
+
+Stimulus = To su oni siromasi, koje je htio nahraniti i moliti se bogu.. 
+Duration = 4210.040000000008 
+id = 6 
+Island Type = csi 
+Grade = 7 
+_______________________________
+
+Stimulus = Tko strah me i zamisliti s kakvim će se ogorčenjem vratiti kući?? 
+Duration = 2426.959999999992 
+id = 29 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Oni su se svađali navečer, ali ujutro su sve pritužbe već bile zaboravljene.. 
+Duration = 5043.779999999999 
+id = 48 
+Island Type = gf 
+Grade = 5 
+_______________________________
+
+Stimulus = Što je kupio i majicu? 
+Duration = 1835.640000000014 
+id = 0 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Kolike su trenutno plaće u hrvatskom sportu? 
+Duration = 2743.459999999992 
+id = 35 
+Island Type = lbc 
+Grade = 7 
+_______________________________
+
+Stimulus = Tko ono da je prodao svoj stan za toliki novac nevjerojatno je?? 
+Duration = 1829.9599999999919 
+id = 17 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Što je kupio tata, i spremila je majka? 
+Duration = 2241.4400000000023 
+id = 7 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Vidimo plažu od koje smo bili daleko. 
+Duration = 4008.920000000013 
+id = 25 
+Island Type = ai 
+Grade = 2 
+_______________________________
+
+Stimulus = Jedna vrlo duboka tamo postoji pećina. 
+Duration = 2713.7600000000093 
+id = 37 
+Island Type = lbc 
+Grade = 1 
+_______________________________
+
+Stimulus = Za koliko novca nevjerojatno je da je Goran prodao svoj stan?? 
+Duration = 5117.600000000006 
+id = 18 
+Island Type = si 
+Grade = 2 
+_______________________________
+
+Stimulus = Ove godine su se Viktor i Marta vjenčao. 
+Duration = 4161.140000000014 
+id = 38 
+Island Type = nf 
+Grade = 3 
+_______________________________
+
+Stimulus = Nešto se mu otac za punoljetnost poklonio. 
+Duration = 2133.320000000007 
+id = 42 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Za kim su banditi imali pitanja? 
+Duration = 3551.4400000000023 
+id = 40 
+Island Type = nf 
+Grade = 3 
+_______________________________
+
+Stimulus = Petar i Mara su jučer otišli u kino pogledati dobru komediju.. 
+Duration = 4150.959999999992 
+id = 46 
+Island Type = gf 
+Grade = 6 
+_______________________________
+
+Stimulus = Što želiš da pronaći nije bilo teško? 
+Duration = 1898.7799999999988 
+id = 14 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Kamo da ne odeš gladan, doručkovao si? 
+Duration = 2018.5599999999977 
+id = 21 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Što je on plakao, čitajući? 
+Duration = 1293.0 
+id = 22 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Kad je Lena pronašla honorarni posao? 
+Duration = 2017.4599999999919 
+id = 51 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Kakva je kraj mene biciklom prošla djevojka? 
+Duration = 4764.579999999987 
+id = 27 
+Island Type = ai 
+Grade = 2 
+_______________________________
+
+Stimulus = Stare su samo Čehovljeve priče bile u ovoj knjižnici.. 
+Duration = 1662.140000000014 
+id = 33 
+Island Type = di 
+Grade = 1 
+_______________________________
+
+Stimulus = Na što je teško prestati besmisleno bacati novac? 
+Duration = 2737.640000000014 
+id = 13 
+Island Type = si 
+Grade = 7 
+_______________________________
+
+Stimulus = Tko se zaljubio u djevojku kad je bio dijete? 
+Duration = 4391.5 
+id = 52 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Kamo je djevojka razmišljala o slobode, idući? 
+Duration = 1373.7000000000116 
+id = 23 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko se nadaš da će napraviti prezentaciju, a Đure nacrtati sliku?? 
+Duration = 2804.8400000000256 
+id = 2 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Odakle si pješke ići prema Zadru? 
+Duration = 1751.960000000021 
+id = 44 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Koliko vidim dječaka kojem je ljubazni poštar poklonio bicikla?? 
+Duration = 2282.460000000021 
+id = 10 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Koliko čega Luka je zaboravio, on mi je posudio? 
+Duration = 2313.5999999999767 
+id = 28 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Čije sam cvijeće izašao iz kuće i zaboravio zaliti? 
+Duration = 3258.4000000000233 
+id = 4 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Prije čega dobro je da smo stigli? 
+Duration = 3116.7600000000093 
+id = 15 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko je jučer susjedu ukrao kobasicu? 
+Duration = 1391.960000000021 
+id = 50 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Što mama hvali kćer koja je u školi dobila? 
+Duration = 1698.4000000000233 
+id = 11 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Vjerojatno je tu lijepa nekad bila crkva. 
+Duration = 1971.2399999999907 
+id = 36 
+Island Type = lbc 
+Grade = 1 
+_______________________________
+
+Stimulus = Što je Inna tri sata pročitala? 
+Duration = 1871.359999999986 
+id = 39 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Vidimo plažu daleko od koje smo bili. 
+Duration = 2897.140000000014 
+id = 24 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Što žele da Ivan pripremi, a Nikola da posprema kuću?? 
+Duration = 2287.6199999999953 
+id = 3 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Čega je riješio taj misterij? 
+Duration = 1789.0999999999767 
+id = 32 
+Island Type = di 
+Grade = 1 
+_______________________________
+
+Stimulus = Kakva čovjeka svatko tko poznaje može potvrditi njegov integritet?? 
+Duration = 2785.5599999999977 
+id = 12 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Lijepe su samo crne čizme bile u ovom ormaru. 
+Duration = 2081.039999999979 
+id = 34 
+Island Type = di 
+Grade = 1 
+_______________________________
+
+Stimulus = Sanjam dvorac iz kojeg se čuje glasan plač daleko.. 
+Duration = 2563.3800000000047 
+id = 26 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Čega je vidio muzej i obalu? 
+Duration = 1355.1599999999744 
+id = 1 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Čega si gledao prepričavanje? 
+Duration = 2622.5800000000163 
+id = 31 
+Island Type = di 
+Grade = 6 
+_______________________________
+
+Stimulus = O čemu je Ivo cijelu večer pričao? 
+Duration = 2062.039999999979 
+id = 47 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Što ćemo uništit i saditi vrtove? 
+Duration = 2430.5 
+id = 5 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = U sutra ne samo svatko jedan može gledati. 
+Duration = 1638.960000000021 
+id = 45 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Što Miloš je opljačkao banku da kupi? 
+Duration = 1798.7399999999907 
+id = 20 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Participant № 15  | Age =  43  | Knowlegde -  mother-tongue  | Education -  master  | Seriousness =  213  | Temper =  2.981132075471698  | Power =  53  | ID =  T4AF_MdYhH
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Stimulus = Što je on plakao, čitajući? 
+Duration = 5940.999999999825 
+id = 22 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Čega si gledao prepričavanje? 
+Duration = 7240.89999999982 
+id = 31 
+Island Type = di 
+Grade = 5 
+_______________________________
+
+Stimulus = U sutra ne samo svatko jedan može gledati. 
+Duration = 5030.200000000565 
+id = 45 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Čega je vidio muzej i obalu? 
+Duration = 9743.10000000018 
+id = 1 
+Island Type = csi 
+Grade = 5 
+_______________________________
+
+Stimulus = O čemu je Ivo cijelu večer pričao? 
+Duration = 5844.900000000547 
+id = 47 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Što bismo voljeli da Drago napravi bez prigovora?? 
+Duration = 5237.10000000021 
+id = 16 
+Island Type = si 
+Grade = 6 
+_______________________________
+
+Stimulus = Što mama hvali kćer koja je u školi dobila? 
+Duration = 3893.600000000559 
+id = 11 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Od čega je djed otišao u sanatorij odmarati? 
+Duration = 6439.100000000559 
+id = 30 
+Island Type = ai 
+Grade = 5 
+_______________________________
+
+Stimulus = Tko ono da je prodao svoj stan za toliki novac nevjerojatno je?? 
+Duration = 6658.300000000163 
+id = 17 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Ove godine su se Viktor i Marta vjenčao. 
+Duration = 5687.067999999446 
+id = 38 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Komu tužno je gledati da ljudi i dalje daju novac?? 
+Duration = 7721.599999999045 
+id = 19 
+Island Type = si 
+Grade = 3 
+_______________________________
+
+Stimulus = Što ćemo uništit i saditi vrtove? 
+Duration = 4302.899999999092 
+id = 5 
+Island Type = csi 
+Grade = 6 
+_______________________________
+
+Stimulus = Kakve izgrađene u viktorijansko doba te zgrade su izgrađene?? 
+Duration = 5350.499999999825 
+id = 43 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Stare su samo Čehovljeve priče bile u ovoj knjižnici.. 
+Duration = 9326.100000000559 
+id = 33 
+Island Type = di 
+Grade = 3 
+_______________________________
+
+Stimulus = Što si saznao tužnu vijest da je Petar izgubio u podzemnoj?? 
+Duration = 10282.499999999418 
+id = 9 
+Island Type = cnp 
+Grade = 2 
+_______________________________
+
+Stimulus = Što žele da Ivan pripremi, a Nikola da posprema kuću?? 
+Duration = 5904.7999999994645 
+id = 3 
+Island Type = csi 
+Grade = 2 
+_______________________________
+
+Stimulus = Kakav sam vidio barku u oceanu? 
+Duration = 7100.399999999441 
+id = 41 
+Island Type = nf 
+Grade = 2 
+_______________________________
+
+Stimulus = Nešto se mu otac za punoljetnost poklonio. 
+Duration = 6573.60000000021 
+id = 42 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko se nadaš da će napraviti prezentaciju, a Đure nacrtati sliku?? 
+Duration = 4507.30000000057 
+id = 2 
+Island Type = csi 
+Grade = 2 
+_______________________________
+
+Stimulus = Petar i Mara su jučer otišli u kino pogledati dobru komediju.. 
+Duration = 8347.30000000057 
+id = 46 
+Island Type = gf 
+Grade = 6 
+_______________________________
+
+Stimulus = Kolike su trenutno plaće u hrvatskom sportu? 
+Duration = 7699.299999999814 
+id = 35 
+Island Type = lbc 
+Grade = 7 
+_______________________________
+
+Stimulus = Vidimo plažu od koje smo bili daleko. 
+Duration = 10997.200000000012 
+id = 25 
+Island Type = ai 
+Grade = -1 
+_______________________________
+
+Stimulus = Za kim su banditi imali pitanja? 
+Duration = 6889.400000000198 
+id = 40 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko se zaljubio u djevojku kad je bio dijete? 
+Duration = 2762.599999999453 
+id = 52 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Kakva je kraj mene biciklom prošla djevojka? 
+Duration = 10188.39999999979 
+id = 27 
+Island Type = ai 
+Grade = 5 
+_______________________________
+
+Stimulus = Kamo je djevojka razmišljala o slobode, idući? 
+Duration = 9415.40000000014 
+id = 23 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Što Miloš je opljačkao banku da kupi? 
+Duration = 6961.599999999395 
+id = 20 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Kamo da ne odeš gladan, doručkovao si? 
+Duration = 6966.299999999814 
+id = 21 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Što želiš da pronaći nije bilo teško? 
+Duration = 10360.59999999986 
+id = 14 
+Island Type = si 
+Grade = 2 
+_______________________________
+
+Stimulus = Vjerojatno je tu lijepa nekad bila crkva. 
+Duration = 7684.299999999814 
+id = 36 
+Island Type = lbc 
+Grade = 5 
+_______________________________
+
+Stimulus = Čega je riješio taj misterij? 
+Duration = 4093.6000000002095 
+id = 32 
+Island Type = di 
+Grade = 1 
+_______________________________
+
+Stimulus = Jedna vrlo duboka tamo postoji pećina. 
+Duration = 10997.300000000047 
+id = 37 
+Island Type = lbc 
+Grade = -1 
+_______________________________
+
+Stimulus = Što je Inna tri sata pročitala? 
+Duration = 4987.099999999045 
+id = 39 
+Island Type = nf 
+Grade = 2 
+_______________________________
+
+Stimulus = Koliko vidim dječaka kojem je ljubazni poštar poklonio bicikla?? 
+Duration = 7183.999999999767 
+id = 10 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Večeras je Anna nalakirala nokte. 
+Duration = 2970.6999999994878 
+id = 49 
+Island Type = gf 
+Grade = 5 
+_______________________________
+
+Stimulus = Tko strah me i zamisliti s kakvim će se ogorčenjem vratiti kući?? 
+Duration = 2704.3999999997905 
+id = 29 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Vidimo plažu daleko od koje smo bili. 
+Duration = 4698.39999999979 
+id = 24 
+Island Type = ai 
+Grade = 5 
+_______________________________
+
+Stimulus = Kad je Lena pronašla honorarni posao? 
+Duration = 3970.5999999998603 
+id = 51 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = To su oni siromasi, koje je htio nahraniti i moliti se bogu.. 
+Duration = 4003.999999999418 
+id = 6 
+Island Type = csi 
+Grade = 7 
+_______________________________
+
+Stimulus = Na što je teško prestati besmisleno bacati novac? 
+Duration = 8389.300000000163 
+id = 13 
+Island Type = si 
+Grade = 2 
+_______________________________
+
+Stimulus = Čije sam cvijeće izašao iz kuće i zaboravio zaliti? 
+Duration = 4732.10000000021 
+id = 4 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Sanjam dvorac iz kojeg se čuje glasan plač daleko.. 
+Duration = 7718.699999999837 
+id = 26 
+Island Type = ai 
+Grade = 4 
+_______________________________
+
+Stimulus = Prije čega dobro je da smo stigli? 
+Duration = 5759.199999999488 
+id = 15 
+Island Type = si 
+Grade = 3 
+_______________________________
+
+Stimulus = Koliko čega Luka je zaboravio, on mi je posudio? 
+Duration = 3513.100000000559 
+id = 28 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Oni su se svađali navečer, ali ujutro su sve pritužbe već bile zaboravljene.. 
+Duration = 6490.60000000021 
+id = 48 
+Island Type = gf 
+Grade = 6 
+_______________________________
+
+Stimulus = Što je kupio i majicu? 
+Duration = 6907.10000000021 
+id = 0 
+Island Type = csi 
+Grade = 3 
+_______________________________
+
+Stimulus = Tko je jučer susjedu ukrao kobasicu? 
+Duration = 6927.499999999069 
+id = 50 
+Island Type = gf 
+Grade = 6 
+_______________________________
+
+Stimulus = Kakva čovjeka svatko tko poznaje može potvrditi njegov integritet?? 
+Duration = 6567.800000000512 
+id = 12 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Što je kupio tata, i spremila je majka? 
+Duration = 4310.099999999045 
+id = 7 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko je ovo bio jasan slučaj da je zapravo pohlepna osoba?? 
+Duration = 3598.2999999991152 
+id = 8 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Lijepe su samo crne čizme bile u ovom ormaru. 
+Duration = 7051.199999999488 
+id = 34 
+Island Type = di 
+Grade = 7 
+_______________________________
+
+Stimulus = Za koliko novca nevjerojatno je da je Goran prodao svoj stan?? 
+Duration = 3951.0999999993946 
+id = 18 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Odakle si pješke ići prema Zadru? 
+Duration = 3741.7999999991152 
+id = 44 
+Island Type = nf 
+Grade = 3 
+_______________________________
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Participant № 16  | Age =  50  | Knowlegde -  mother-tongue  | Education -    | Seriousness =  145  | Temper =  3.342857142857143  | Power =  35  | ID =  TYqkLYL0P8
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Stimulus = Čega si gledao prepričavanje? 
+Duration = 2376.0119999880844 
+id = 31 
+Island Type = di 
+Grade = 1 
+_______________________________
+
+Stimulus = U sutra ne samo svatko jedan može gledati. 
+Duration = 3360.1020000059507 
+id = 45 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Kakva je kraj mene biciklom prošla djevojka? 
+Duration = 4363.699999994045 
+id = 27 
+Island Type = ai 
+Grade = 7 
+_______________________________
+
+Stimulus = Za kim su banditi imali pitanja? 
+Duration = 3719.799999988085 
+id = 40 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko se nadaš da će napraviti prezentaciju, a Đure nacrtati sliku?? 
+Duration = 4739.9000000059605 
+id = 2 
+Island Type = csi 
+Grade = 5 
+_______________________________
+
+Stimulus = Komu tužno je gledati da ljudi i dalje daju novac?? 
+Duration = 2374.099999982107 
+id = 19 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Vjerojatno je tu lijepa nekad bila crkva. 
+Duration = 4265.5 
+id = 36 
+Island Type = lbc 
+Grade = 4 
+_______________________________
+
+Stimulus = Kamo da ne odeš gladan, doručkovao si? 
+Duration = 3110.8000000059546 
+id = 21 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko je jučer susjedu ukrao kobasicu? 
+Duration = 2532.3999999880907 
+id = 50 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Petar i Mara su jučer otišli u kino pogledati dobru komediju.. 
+Duration = 4281.300000005955 
+id = 46 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Vidimo plažu daleko od koje smo bili. 
+Duration = 2418.9999999821302 
+id = 24 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Na što je teško prestati besmisleno bacati novac? 
+Duration = 3603.4000000059605 
+id = 13 
+Island Type = si 
+Grade = 6 
+_______________________________
+
+Stimulus = Ove godine su se Viktor i Marta vjenčao. 
+Duration = 3540.7999999999884 
+id = 38 
+Island Type = nf 
+Grade = 6 
+_______________________________
+
+Stimulus = Oni su se svađali navečer, ali ujutro su sve pritužbe već bile zaboravljene.. 
+Duration = 2865.599999982107 
+id = 48 
+Island Type = gf 
+Grade = 6 
+_______________________________
+
+Stimulus = Tko strah me i zamisliti s kakvim će se ogorčenjem vratiti kući?? 
+Duration = 2087.4999999821302 
+id = 29 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Kamo je djevojka razmišljala o slobode, idući? 
+Duration = 5808.200000000012 
+id = 23 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Lijepe su samo crne čizme bile u ovom ormaru. 
+Duration = 4078.699999982142 
+id = 34 
+Island Type = di 
+Grade = 5 
+_______________________________
+
+Stimulus = Što je kupio i majicu? 
+Duration = 2424.799999994051 
+id = 0 
+Island Type = csi 
+Grade = 4 
+_______________________________
+
+Stimulus = Kad je Lena pronašla honorarni posao? 
+Duration = 2192.3999999880907 
+id = 51 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Što si saznao tužnu vijest da je Petar izgubio u podzemnoj?? 
+Duration = 2067.899999994028 
+id = 9 
+Island Type = cnp 
+Grade = 4 
+_______________________________
+
+Stimulus = Sanjam dvorac iz kojeg se čuje glasan plač daleko.. 
+Duration = 2881.9000000000233 
+id = 26 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Kakva čovjeka svatko tko poznaje može potvrditi njegov integritet?? 
+Duration = 2001.1999999940163 
+id = 12 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Koliko vidim dječaka kojem je ljubazni poštar poklonio bicikla?? 
+Duration = 1923.7000000000116 
+id = 10 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Večeras je Anna nalakirala nokte. 
+Duration = 2012.0000000059372 
+id = 49 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Čije sam cvijeće izašao iz kuće i zaboravio zaliti? 
+Duration = 2399.3000000059837 
+id = 4 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Od čega je djed otišao u sanatorij odmarati? 
+Duration = 5247.49999998213 
+id = 30 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = O čemu je Ivo cijelu večer pričao? 
+Duration = 2685.9000000000233 
+id = 47 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Jedna vrlo duboka tamo postoji pećina. 
+Duration = 2381.2999999999884 
+id = 37 
+Island Type = lbc 
+Grade = 5 
+_______________________________
+
+Stimulus = Nešto se mu otac za punoljetnost poklonio. 
+Duration = 2562.2000000000116 
+id = 42 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko je ovo bio jasan slučaj da je zapravo pohlepna osoba?? 
+Duration = 1763.7999999940512 
+id = 8 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko ono da je prodao svoj stan za toliki novac nevjerojatno je?? 
+Duration = 3826.099999982107 
+id = 17 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Što Miloš je opljačkao banku da kupi? 
+Duration = 2486.3999999880907 
+id = 20 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Kolike su trenutno plaće u hrvatskom sportu? 
+Duration = 2015.4000000059605 
+id = 35 
+Island Type = lbc 
+Grade = 7 
+_______________________________
+
+Stimulus = Stare su samo Čehovljeve priče bile u ovoj knjižnici.. 
+Duration = 2273.3999999820953 
+id = 33 
+Island Type = di 
+Grade = 1 
+_______________________________
+
+Stimulus = Što žele da Ivan pripremi, a Nikola da posprema kuću?? 
+Duration = 3029.4000000000233 
+id = 3 
+Island Type = csi 
+Grade = 5 
+_______________________________
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Participant № 17  | Age =  27  | Knowlegde -  mother-tongue  | Education -  master  | Seriousness =  118  | Temper =  2.5  | Power =  18  | ID =  vgGmJ1sEeR
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Stimulus = Petar i Mara su jučer otišli u kino pogledati dobru komediju.. 
+Duration = 5738.0 
+id = 46 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Odakle si pješke ići prema Zadru? 
+Duration = 2044.0 
+id = 44 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Što bismo voljeli da Drago napravi bez prigovora?? 
+Duration = 4767.0 
+id = 16 
+Island Type = si 
+Grade = 5 
+_______________________________
+
+Stimulus = Prije čega dobro je da smo stigli? 
+Duration = 2962.0 
+id = 15 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Što želiš da pronaći nije bilo teško? 
+Duration = 2262.0 
+id = 14 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Što je on plakao, čitajući? 
+Duration = 4250.0 
+id = 22 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = U sutra ne samo svatko jedan može gledati. 
+Duration = 2462.0 
+id = 45 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Za koliko novca nevjerojatno je da je Goran prodao svoj stan?? 
+Duration = 2696.0 
+id = 18 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Na što je teško prestati besmisleno bacati novac? 
+Duration = 3232.000000000029 
+id = 13 
+Island Type = si 
+Grade = 6 
+_______________________________
+
+Stimulus = Što je kupio i majicu? 
+Duration = 2295.0 
+id = 0 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = O čemu je Ivo cijelu večer pričao? 
+Duration = 1593.0 
+id = 47 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Što Miloš je opljačkao banku da kupi? 
+Duration = 1676.000000000029 
+id = 20 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Što si saznao tužnu vijest da je Petar izgubio u podzemnoj?? 
+Duration = 1426.000000000029 
+id = 9 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Od čega je djed otišao u sanatorij odmarati? 
+Duration = 1476.0 
+id = 30 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Kakva je kraj mene biciklom prošla djevojka? 
+Duration = 7226.0 
+id = 27 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Stare su samo Čehovljeve priče bile u ovoj knjižnici.. 
+Duration = 2345.000000000029 
+id = 33 
+Island Type = di 
+Grade = 1 
+_______________________________
+
+Stimulus = Večeras je Anna nalakirala nokte. 
+Duration = 1359.000000000029 
+id = 49 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Koliko vidim dječaka kojem je ljubazni poštar poklonio bicikla?? 
+Duration = 1826.0 
+id = 10 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Participant № 18  | Age =  47  | Knowlegde -  mother-tongue  | Education -  master  | Seriousness =  161  | Temper =  2.3333333333333335  | Power =  36  | ID =  WXvo7egSFR
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Stimulus = Tko ono da je prodao svoj stan za toliki novac nevjerojatno je?? 
+Duration = 4712.999999994034 
+id = 17 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Kakve izgrađene u viktorijansko doba te zgrade su izgrađene?? 
+Duration = 5034.299999994051 
+id = 43 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Što želiš da pronaći nije bilo teško? 
+Duration = 2887.799999994051 
+id = 14 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Što si saznao tužnu vijest da je Petar izgubio u podzemnoj?? 
+Duration = 4448.599999997008 
+id = 9 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Ove godine su se Viktor i Marta vjenčao. 
+Duration = 3701.299999994051 
+id = 38 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko se nadaš da će napraviti prezentaciju, a Đure nacrtati sliku?? 
+Duration = 3056.3999999955413 
+id = 2 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Jedna vrlo duboka tamo postoji pećina. 
+Duration = 4677.799999999988 
+id = 37 
+Island Type = lbc 
+Grade = 2 
+_______________________________
+
+Stimulus = Što je Inna tri sata pročitala? 
+Duration = 5427.899999997026 
+id = 39 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Petar i Mara su jučer otišli u kino pogledati dobru komediju.. 
+Duration = 7391.19999999553 
+id = 46 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Što mama hvali kćer koja je u školi dobila? 
+Duration = 3842.899999999994 
+id = 11 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Čega je vidio muzej i obalu? 
+Duration = 1895.5999999999767 
+id = 1 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Koliko vidim dječaka kojem je ljubazni poštar poklonio bicikla?? 
+Duration = 9918.999999998487 
+id = 10 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Lijepe su samo crne čizme bile u ovom ormaru. 
+Duration = 3133.8999999969965 
+id = 34 
+Island Type = di 
+Grade = 2 
+_______________________________
+
+Stimulus = Večeras je Anna nalakirala nokte. 
+Duration = 4443.999999998487 
+id = 49 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Za koliko novca nevjerojatno je da je Goran prodao svoj stan?? 
+Duration = 4460.599999995553 
+id = 18 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Što je kupio i majicu? 
+Duration = 2164.0999999999767 
+id = 0 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = To su oni siromasi, koje je htio nahraniti i moliti se bogu.. 
+Duration = 11088.100000000035 
+id = 6 
+Island Type = csi 
+Grade = -1 
+_______________________________
+
+Stimulus = Kad je Lena pronašla honorarni posao? 
+Duration = 3650.499999994063 
+id = 51 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Sanjam dvorac iz kojeg se čuje glasan plač daleko.. 
+Duration = 3511.999999994063 
+id = 26 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Što je on plakao, čitajući? 
+Duration = 2978.9000000000233 
+id = 22 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Čega je riješio taj misterij? 
+Duration = 1619.6999999955297 
+id = 32 
+Island Type = di 
+Grade = 1 
+_______________________________
+
+Stimulus = Vidimo plažu daleko od koje smo bili. 
+Duration = 2244.9999999970314 
+id = 24 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Čega si gledao prepričavanje? 
+Duration = 5731.999999994063 
+id = 31 
+Island Type = di 
+Grade = 6 
+_______________________________
+
+Stimulus = Kakva čovjeka svatko tko poznaje može potvrditi njegov integritet?? 
+Duration = 1943.699999997043 
+id = 12 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Na što je teško prestati besmisleno bacati novac? 
+Duration = 4809.199999998498 
+id = 13 
+Island Type = si 
+Grade = 7 
+_______________________________
+
+Stimulus = Tko strah me i zamisliti s kakvim će se ogorčenjem vratiti kući?? 
+Duration = 1733.5999999940395 
+id = 29 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Komu tužno je gledati da ljudi i dalje daju novac?? 
+Duration = 4412.199999994016 
+id = 19 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Za kim su banditi imali pitanja? 
+Duration = 1995.899999994028 
+id = 40 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Stare su samo Čehovljeve priče bile u ovoj knjižnici.. 
+Duration = 6478.999999994063 
+id = 33 
+Island Type = di 
+Grade = 4 
+_______________________________
+
+Stimulus = Što ćemo uništit i saditi vrtove? 
+Duration = 10022.39999999851 
+id = 5 
+Island Type = csi 
+Grade = 6 
+_______________________________
+
+Stimulus = Koliko čega Luka je zaboravio, on mi je posudio? 
+Duration = 5825.999999998487 
+id = 28 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Oni su se svađali navečer, ali ujutro su sve pritužbe već bile zaboravljene.. 
+Duration = 6488.799999995506 
+id = 48 
+Island Type = gf 
+Grade = 6 
+_______________________________
+
+Stimulus = Od čega je djed otišao u sanatorij odmarati? 
+Duration = 5824.3999999969965 
+id = 30 
+Island Type = ai 
+Grade = 7 
+_______________________________
+
+Stimulus = Vjerojatno je tu lijepa nekad bila crkva. 
+Duration = 2899.8999999969965 
+id = 36 
+Island Type = lbc 
+Grade = 1 
+_______________________________
+
+Stimulus = Kakav sam vidio barku u oceanu? 
+Duration = 1941.8999999955413 
+id = 41 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Kamo da ne odeš gladan, doručkovao si? 
+Duration = 2204.299999998533 
+id = 21 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Participant № 19  | Age =  26  | Knowlegde -  mother-tongue  | Education -  highschool  | Seriousness =  34  | Temper =  2.3333333333333335  | Power =  9  | ID =  xHUlK1O4oq
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Stimulus = Što mama hvali kćer koja je u školi dobila? 
+Duration = 3977.0599999999977 
+id = 11 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Sanjam dvorac iz kojeg se čuje glasan plač daleko.. 
+Duration = 2704.320000000007 
+id = 26 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Stare su samo Čehovljeve priče bile u ovoj knjižnici.. 
+Duration = 2348.0599999999977 
+id = 33 
+Island Type = di 
+Grade = 1 
+_______________________________
+
+Stimulus = Za koliko novca nevjerojatno je da je Goran prodao svoj stan?? 
+Duration = 3863.459999999992 
+id = 18 
+Island Type = si 
+Grade = 2 
+_______________________________
+
+Stimulus = Nešto se mu otac za punoljetnost poklonio. 
+Duration = 3521.600000000006 
+id = 42 
+Island Type = nf 
+Grade = 5 
+_______________________________
+
+Stimulus = Što bismo voljeli da Drago napravi bez prigovora?? 
+Duration = 6532.179999999993 
+id = 16 
+Island Type = si 
+Grade = 7 
+_______________________________
+
+Stimulus = Koliko vidim dječaka kojem je ljubazni poštar poklonio bicikla?? 
+Duration = 2413.820000000007 
+id = 10 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Vidimo plažu daleko od koje smo bili. 
+Duration = 3217.0599999999977 
+id = 24 
+Island Type = ai 
+Grade = 2 
+_______________________________
+
+Stimulus = Čije sam cvijeće izašao iz kuće i zaboravio zaliti? 
+Duration = 1987.1199999999953 
+id = 4 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Participant № 20  | Age =  49  | Knowlegde -  speak-fluently  | Education -  highschool  | Seriousness =  178  | Temper =  3.830188679245283  | Power =  53  | ID =  z_ZvPU2GEy
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Stimulus = Kakav sam vidio barku u oceanu? 
+Duration = 11000.0 
+id = 41 
+Island Type = nf 
+Grade = -1 
+_______________________________
+
+Stimulus = Što je kupio tata, i spremila je majka? 
+Duration = 4882.0 
+id = 7 
+Island Type = csi 
+Grade = 7 
+_______________________________
+
+Stimulus = Koliko čega Luka je zaboravio, on mi je posudio? 
+Duration = 11000.299999999988 
+id = 28 
+Island Type = ai 
+Grade = -1 
+_______________________________
+
+Stimulus = Što želiš da pronaći nije bilo teško? 
+Duration = 11000.400000000009 
+id = 14 
+Island Type = si 
+Grade = -1 
+_______________________________
+
+Stimulus = Oni su se svađali navečer, ali ujutro su sve pritužbe već bile zaboravljene.. 
+Duration = 2948.0000000953733 
+id = 48 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Kolike su trenutno plaće u hrvatskom sportu? 
+Duration = 4484.100000190738 
+id = 35 
+Island Type = lbc 
+Grade = 7 
+_______________________________
+
+Stimulus = Na što je teško prestati besmisleno bacati novac? 
+Duration = 4696.1000000953645 
+id = 13 
+Island Type = si 
+Grade = 7 
+_______________________________
+
+Stimulus = Što mama hvali kćer koja je u školi dobila? 
+Duration = 10999.799999999988 
+id = 11 
+Island Type = cnp 
+Grade = -1 
+_______________________________
+
+Stimulus = Tko strah me i zamisliti s kakvim će se ogorčenjem vratiti kući?? 
+Duration = 10999.700000000012 
+id = 29 
+Island Type = ai 
+Grade = -1 
+_______________________________
+
+Stimulus = Koliko vidim dječaka kojem je ljubazni poštar poklonio bicikla?? 
+Duration = 5199.300000000003 
+id = 10 
+Island Type = cnp 
+Grade = 7 
+_______________________________
+
+Stimulus = Što ćemo uništit i saditi vrtove? 
+Duration = 9119.000000190732 
+id = 5 
+Island Type = csi 
+Grade = 7 
+_______________________________
+
+Stimulus = U sutra ne samo svatko jedan može gledati. 
+Duration = 5090.299999904644 
+id = 45 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko je ovo bio jasan slučaj da je zapravo pohlepna osoba?? 
+Duration = 5013.799999904644 
+id = 8 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Vidimo plažu daleko od koje smo bili. 
+Duration = 7425.699999904638 
+id = 24 
+Island Type = ai 
+Grade = 7 
+_______________________________
+
+Stimulus = Lijepe su samo crne čizme bile u ovom ormaru. 
+Duration = 3241.2999999999884 
+id = 34 
+Island Type = di 
+Grade = 7 
+_______________________________
+
+Stimulus = Za koliko novca nevjerojatno je da je Goran prodao svoj stan?? 
+Duration = 10602.100000286096 
+id = 18 
+Island Type = si 
+Grade = 4 
+_______________________________
+
+Stimulus = Od čega je djed otišao u sanatorij odmarati? 
+Duration = 3356.600000190723 
+id = 30 
+Island Type = ai 
+Grade = 7 
+_______________________________
+
+Stimulus = Što bismo voljeli da Drago napravi bez prigovora?? 
+Duration = 3229.899999904621 
+id = 16 
+Island Type = si 
+Grade = 7 
+_______________________________
+
+Stimulus = To su oni siromasi, koje je htio nahraniti i moliti se bogu.. 
+Duration = 7888.400000190712 
+id = 6 
+Island Type = csi 
+Grade = 7 
+_______________________________
+
+Stimulus = Tko ono da je prodao svoj stan za toliki novac nevjerojatno je?? 
+Duration = 2796.600000190723 
+id = 17 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Odakle si pješke ići prema Zadru? 
+Duration = 10002.80000009539 
+id = 44 
+Island Type = nf 
+Grade = 4 
+_______________________________
+
+Stimulus = Čije sam cvijeće izašao iz kuće i zaboravio zaliti? 
+Duration = 9300.900000000023 
+id = 4 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Kakva je kraj mene biciklom prošla djevojka? 
+Duration = 3926.0 
+id = 27 
+Island Type = ai 
+Grade = 7 
+_______________________________
+
+Stimulus = Što žele da Ivan pripremi, a Nikola da posprema kuću?? 
+Duration = 6968.800000095391 
+id = 3 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Kamo je djevojka razmišljala o slobode, idući? 
+Duration = 4694.499999904656 
+id = 23 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Nešto se mu otac za punoljetnost poklonio. 
+Duration = 4123.200000000012 
+id = 42 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Što Miloš je opljačkao banku da kupi? 
+Duration = 6089.899999904621 
+id = 20 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko je jučer susjedu ukrao kobasicu? 
+Duration = 3433.5999999999767 
+id = 50 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Stare su samo Čehovljeve priče bile u ovoj knjižnici.. 
+Duration = 4372.400000000023 
+id = 33 
+Island Type = di 
+Grade = 7 
+_______________________________
+
+Stimulus = Petar i Mara su jučer otišli u kino pogledati dobru komediju.. 
+Duration = 2851.5 
+id = 46 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Vidimo plažu od koje smo bili daleko. 
+Duration = 3544.4000001907116 
+id = 25 
+Island Type = ai 
+Grade = 7 
+_______________________________
+
+Stimulus = Tko se zaljubio u djevojku kad je bio dijete? 
+Duration = 6844.299999904586 
+id = 52 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Što je kupio i majicu? 
+Duration = 4723.000000095344 
+id = 0 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Kad je Lena pronašla honorarni posao? 
+Duration = 2854.1999999046093 
+id = 51 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Što si saznao tužnu vijest da je Petar izgubio u podzemnoj?? 
+Duration = 5857.300000095391 
+id = 9 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Čega je riješio taj misterij? 
+Duration = 4216.900000000023 
+id = 32 
+Island Type = di 
+Grade = 1 
+_______________________________
+
+Stimulus = Večeras je Anna nalakirala nokte. 
+Duration = 3111.800000190735 
+id = 49 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Čega si gledao prepričavanje? 
+Duration = 2240.700000095414 
+id = 31 
+Island Type = di 
+Grade = 7 
+_______________________________
+
+Stimulus = Jedna vrlo duboka tamo postoji pećina. 
+Duration = 5441.499999904656 
+id = 37 
+Island Type = lbc 
+Grade = 7 
+_______________________________
+
+Stimulus = Sanjam dvorac iz kojeg se čuje glasan plač daleko.. 
+Duration = 5604.199999999953 
+id = 26 
+Island Type = ai 
+Grade = 7 
+_______________________________
+
+Stimulus = Što je on plakao, čitajući? 
+Duration = 7474.200000190758 
+id = 22 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Što je Inna tri sata pročitala? 
+Duration = 4856.700000286102 
+id = 39 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Čega je vidio muzej i obalu? 
+Duration = 2668.299999904586 
+id = 1 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Komu tužno je gledati da ljudi i dalje daju novac?? 
+Duration = 7128.900000000023 
+id = 19 
+Island Type = si 
+Grade = 7 
+_______________________________
+
+Stimulus = Kakve izgrađene u viktorijansko doba te zgrade su izgrađene?? 
+Duration = 8277.099999999977 
+id = 43 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Kamo da ne odeš gladan, doručkovao si? 
+Duration = 3694.200000095414 
+id = 21 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Prije čega dobro je da smo stigli? 
+Duration = 4121.400000000023 
+id = 15 
+Island Type = si 
+Grade = 7 
+_______________________________
+
+Stimulus = Ove godine su se Viktor i Marta vjenčao. 
+Duration = 4446.100000190781 
+id = 38 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Za kim su banditi imali pitanja? 
+Duration = 3002.4000002860557 
+id = 40 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko se nadaš da će napraviti prezentaciju, a Đure nacrtati sliku?? 
+Duration = 11000.0 
+id = 2 
+Island Type = csi 
+Grade = -1 
+_______________________________
+
+Stimulus = Vjerojatno je tu lijepa nekad bila crkva. 
+Duration = 3615.300000286079 
+id = 36 
+Island Type = lbc 
+Grade = 7 
+_______________________________
+
+Stimulus = Kakva čovjeka svatko tko poznaje može potvrditi njegov integritet?? 
+Duration = 3365.899999904679 
+id = 12 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = O čemu je Ivo cijelu večer pričao? 
+Duration = 2077.5 
+id = 47 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Participant № 21  | Age =  34  | Knowlegde -  mother-tongue  | Education -  master  | Seriousness =  163  | Temper =  2.943396226415094  | Power =  53  | ID =  _Ss5NYbESu
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Stimulus = Kakve izgrađene u viktorijansko doba te zgrade su izgrađene?? 
+Duration = 3330.600000000006 
+id = 43 
+Island Type = nf 
+Grade = 5 
+_______________________________
+
+Stimulus = Tko je jučer susjedu ukrao kobasicu? 
+Duration = 4486.500000005966 
+id = 50 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Kamo je djevojka razmišljala o slobode, idući? 
+Duration = 3111.600000005972 
+id = 23 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko se zaljubio u djevojku kad je bio dijete? 
+Duration = 4556.600000017876 
+id = 52 
+Island Type = gf 
+Grade = 4 
+_______________________________
+
+Stimulus = Ove godine su se Viktor i Marta vjenčao. 
+Duration = 2102.8000000059546 
+id = 38 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Tko se nadaš da će napraviti prezentaciju, a Đure nacrtati sliku?? 
+Duration = 2389.100000000006 
+id = 2 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Što je Inna tri sata pročitala? 
+Duration = 2272.4000000059605 
+id = 39 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Čije sam cvijeće izašao iz kuće i zaboravio zaliti? 
+Duration = 3321.000000023836 
+id = 4 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Što je on plakao, čitajući? 
+Duration = 2049.100000000006 
+id = 22 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Koliko čega Luka je zaboravio, on mi je posudio? 
+Duration = 1424.600000005972 
+id = 28 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Što Miloš je opljačkao banku da kupi? 
+Duration = 4321.000000011933 
+id = 20 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Čega je riješio taj misterij? 
+Duration = 2380.500000005937 
+id = 32 
+Island Type = di 
+Grade = 1 
+_______________________________
+
+Stimulus = To su oni siromasi, koje je htio nahraniti i moliti se bogu.. 
+Duration = 6939.000000023865 
+id = 6 
+Island Type = csi 
+Grade = 7 
+_______________________________
+
+Stimulus = Kakva čovjeka svatko tko poznaje može potvrditi njegov integritet?? 
+Duration = 1989.4000000118976 
+id = 12 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Što želiš da pronaći nije bilo teško? 
+Duration = 1978.7000000000116 
+id = 14 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = U sutra ne samo svatko jedan može gledati. 
+Duration = 2299.814000000013 
+id = 45 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Kakva je kraj mene biciklom prošla djevojka? 
+Duration = 7705.600000023842 
+id = 27 
+Island Type = ai 
+Grade = 5 
+_______________________________
+
+Stimulus = Čega si gledao prepričavanje? 
+Duration = 5247.300000005984 
+id = 31 
+Island Type = di 
+Grade = 3 
+_______________________________
+
+Stimulus = Kad je Lena pronašla honorarni posao? 
+Duration = 1997.8000000059837 
+id = 51 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Tko je ovo bio jasan slučaj da je zapravo pohlepna osoba?? 
+Duration = 2126.800000017858 
+id = 8 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Vidimo plažu daleko od koje smo bili. 
+Duration = 6885.40000002383 
+id = 24 
+Island Type = ai 
+Grade = 6 
+_______________________________
+
+Stimulus = Tko strah me i zamisliti s kakvim će se ogorčenjem vratiti kući?? 
+Duration = 1775.1000000119093 
+id = 29 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Nešto se mu otac za punoljetnost poklonio. 
+Duration = 2043.9000000238302 
+id = 42 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Čega je vidio muzej i obalu? 
+Duration = 1946.9000000118976 
+id = 1 
+Island Type = csi 
+Grade = 1 
+_______________________________
+
+Stimulus = Što si saznao tužnu vijest da je Petar izgubio u podzemnoj?? 
+Duration = 3947.1000000119093 
+id = 9 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Za kim su banditi imali pitanja? 
+Duration = 5037.100000017905 
+id = 40 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = O čemu je Ivo cijelu večer pričao? 
+Duration = 1395.0000000238651 
+id = 47 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Koliko vidim dječaka kojem je ljubazni poštar poklonio bicikla?? 
+Duration = 1509.9000000059605 
+id = 10 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Petar i Mara su jučer otišli u kino pogledati dobru komediju.. 
+Duration = 2304.8000000238535 
+id = 46 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Oni su se svađali navečer, ali ujutro su sve pritužbe već bile zaboravljene.. 
+Duration = 3478.6000000119093 
+id = 48 
+Island Type = gf 
+Grade = 7 
+_______________________________
+
+Stimulus = Što ćemo uništit i saditi vrtove? 
+Duration = 5872.5 
+id = 5 
+Island Type = csi 
+Grade = 2 
+_______________________________
+
+Stimulus = Što je kupio tata, i spremila je majka? 
+Duration = 3209.300000017858 
+id = 7 
+Island Type = csi 
+Grade = 2 
+_______________________________
+
+Stimulus = Prije čega dobro je da smo stigli? 
+Duration = 5195.700000011944 
+id = 15 
+Island Type = si 
+Grade = 6 
+_______________________________
+
+Stimulus = Stare su samo Čehovljeve priče bile u ovoj knjižnici.. 
+Duration = 5179.099999999977 
+id = 33 
+Island Type = di 
+Grade = 2 
+_______________________________
+
+Stimulus = Na što je teško prestati besmisleno bacati novac? 
+Duration = 1578.5000000059372 
+id = 13 
+Island Type = si 
+Grade = 7 
+_______________________________
+
+Stimulus = Što bismo voljeli da Drago napravi bez prigovora?? 
+Duration = 1458.0000000238651 
+id = 16 
+Island Type = si 
+Grade = 7 
+_______________________________
+
+Stimulus = Što žele da Ivan pripremi, a Nikola da posprema kuću?? 
+Duration = 2732.40000002383 
+id = 3 
+Island Type = csi 
+Grade = 2 
+_______________________________
+
+Stimulus = Za koliko novca nevjerojatno je da je Goran prodao svoj stan?? 
+Duration = 2539.8000000059837 
+id = 18 
+Island Type = si 
+Grade = 2 
+_______________________________
+
+Stimulus = Sanjam dvorac iz kojeg se čuje glasan plač daleko.. 
+Duration = 1827.1000000119093 
+id = 26 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Vidimo plažu od koje smo bili daleko. 
+Duration = 4187.0 
+id = 25 
+Island Type = ai 
+Grade = 6 
+_______________________________
+
+Stimulus = Što mama hvali kćer koja je u školi dobila? 
+Duration = 3964.900000017893 
+id = 11 
+Island Type = cnp 
+Grade = 1 
+_______________________________
+
+Stimulus = Kakav sam vidio barku u oceanu? 
+Duration = 2544.3000000238535 
+id = 41 
+Island Type = nf 
+Grade = 2 
+_______________________________
+
+Stimulus = Jedna vrlo duboka tamo postoji pećina. 
+Duration = 2195.7000000238186 
+id = 37 
+Island Type = lbc 
+Grade = 2 
+_______________________________
+
+Stimulus = Kolike su trenutno plaće u hrvatskom sportu? 
+Duration = 3485.0000000178698 
+id = 35 
+Island Type = lbc 
+Grade = 7 
+_______________________________
+
+Stimulus = Vjerojatno je tu lijepa nekad bila crkva. 
+Duration = 2658.200000011944 
+id = 36 
+Island Type = lbc 
+Grade = 2 
+_______________________________
+
+Stimulus = Od čega je djed otišao u sanatorij odmarati? 
+Duration = 6487.200000000012 
+id = 30 
+Island Type = ai 
+Grade = 6 
+_______________________________
+
+Stimulus = Tko ono da je prodao svoj stan za toliki novac nevjerojatno je?? 
+Duration = 3619.1000000119675 
+id = 17 
+Island Type = si 
+Grade = 1 
+_______________________________
+
+Stimulus = Kamo da ne odeš gladan, doručkovao si? 
+Duration = 2308.9000000238884 
+id = 21 
+Island Type = ai 
+Grade = 1 
+_______________________________
+
+Stimulus = Odakle si pješke ići prema Zadru? 
+Duration = 2252.600000023842 
+id = 44 
+Island Type = nf 
+Grade = 1 
+_______________________________
+
+Stimulus = Lijepe su samo crne čizme bile u ovom ormaru. 
+Duration = 2446.5 
+id = 34 
+Island Type = di 
+Grade = 1 
+_______________________________
+
+Stimulus = Komu tužno je gledati da ljudi i dalje daju novac?? 
+Duration = 3869.2000000178814 
+id = 19 
+Island Type = si 
+Grade = 2 
+_______________________________
+
+Stimulus = Što je kupio i majicu? 
+Duration = 3107.300000011921 
+id = 0 
+Island Type = csi 
+Grade = 2 
+_______________________________
+
+Stimulus = Večeras je Anna nalakirala nokte. 
+Duration = 1740.000000017928 
+id = 49 
+Island Type = gf 
+Grade = 7 
+_______________________________
